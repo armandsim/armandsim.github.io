@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 #description: 
 nav: true
 nav_order: 5
 ---
 
-## Publication
+## publication
 
 **[The Consequences of Child Market Work on the Growth of Human Capital](https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub)** <br> 
 with Asep Suryahadi and Daniel Suryadarma <br>
@@ -18,7 +18,7 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 
 <br>
 
-## Working Papers 
+## working papers 
 
 **[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](https://www.dropbox.com/s/y5az95rwldhxxhg/AKS_Ghana_2023_Jan.pdf?raw=1)** <br>
 with Patrick Asuming and Hyuncheol Bryant Kim <br>
@@ -40,7 +40,7 @@ In settings where resistance and rampant misinformation against vaccines exist, 
 
 <br>
 
-## Works in Progress
+## works in progress
 
 **Identifying the Most Cost-Effective Way to Large-scale Vaccination in Rural Bangladesh** <br>
 with Dinesh Arora, Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
