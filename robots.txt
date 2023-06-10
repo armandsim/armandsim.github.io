@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://armand.github.io/sitemap.xml
+Sitemap: https://armandsim.github.io/sitemap.xml
