@@ -1,0 +1,659 @@
+PKABCODE,index_right,prop_name,prop_id,primary_commodity,projects,dev_stage,activ_status,commodities_list,state_province,latitude,longitude,mo_yr_source_d
+9371,58,Sentani,29919,Nickel,Projects,Target Outline,Inactive,"Nickel,Cobalt",Papua,-2.58127,140.53757,2005-03-01
+9204,521,Papua - PT Sumber Daya Energi,67942,Coal,Projects,Grassroots,Inactive,Coal,Papua,-2.99,138.05,2014-01-01
+9204,188,Papua,40122,Coal,Projects,Exploration,Inactive,Coal,Papua,-2.66667,137.66667,2015-01-01
+9103,349,Batanta Island,52752,Gold,Projects,,Inactive,Gold,Papua Barat,-0.85964,130.62653,1995-10-01
+9103,414,Fofak ( Waigeo ),60249,Nickel,Projects,Operating,,"Nickel,Cobalt",Papua Barat,-0.065,130.75,2008-08-01
+9303,36,Minika,29382,Copper,Projects,Target Outline,Inactive,"Copper,Gold",Papua,-4.03591,137.47305,1995-12-01
+9303,34,Wabu,29203,Gold,Projects,Reserves Development,Inactive,"Gold,Silver",Papua,-3.76346,137.05869,2017-02-01
+9203,378,Nabire,56693,Gold,Projects,Grassroots,Inactive,"Gold,Copper,Silver",Papua,-3.96,136.0,2015-12-01
+9203,403,Papua,59636,Gold,Projects,Grassroots,Inactive,"Gold,Copper",Papua,-3.675,136.5,2011-01-01
+9203,136,Derewo River,38464,Gold,Projects,Construction Started,Active,Gold,Papua,-3.62167,136.28639,2020-09-01
+9201,4,Grasberg,26568,Copper,Projects,Operating,Active,"Copper,Gold,Silver",Papua,-4.05667,137.11361,2022-07-01
+9102,197,West Papua,40305,Coal,Projects,Exploration,Inactive,Coal,Papua Barat,-1.45111,133.94361,2012-10-01
+9102,427,Manokwari,61356,Coal,Projects,Grassroots,Inactive,Coal,Papua Barat,-1.441,134.016,2012-10-01
+9102,398,Bird's Head,58932,Copper,Projects,Exploration,Inactive,"Copper,Gold,Molybdenum,Silver,Zinc,Lead",Papua Barat,-0.58885,132.79146,2018-03-01
+9302,497,Oksibil,66126,Gold,Projects,Exploration,Inactive,"Gold,Silver",Papua,-5.081,140.636,2013-04-01
+9302,579,Pegunungan Bintang,84435,Gold,Projects,Target Outline,Active,Gold,Papua,-4.97296,140.74293,2020-01-01
+9302,62,Antares,30071,Copper,Projects,Target Outline,Inactive,"Copper,Gold,Zinc,Lead",Papua,-4.87278,140.85694,2015-03-01
+9304,380,Idenburg,56886,Gold,Projects,Exploration,Inactive,Gold,Papua,-3.589,140.691,2011-04-01
+9304,65,Cendrawana,30234,Nickel,Projects,Target Outline,Inactive,"Nickel,Cobalt",Papua,-2.52167,138.88333,2005-03-01
+9304,41,Siduarsi,29556,Nickel,Projects,Target Outline,Active,"Nickel,Cobalt",Papua,-2.52145,138.88338,2022-05-01
+9304,581,Cyclops,84443,Nickel,Projects,Target Outline,Active,"Nickel,Cobalt,Iron Ore",Papua,-2.46688,140.36829,2020-01-01
+3171,622,Yashi Smelter,85830,Nickel,Facilities,Expansion,Active,Nickel,Jakarta Raya,-6.2289,106.82387,2020-09-01
+3173,653,Dafeng Plant,89498,Nickel,Facilities,Operating,Active,Nickel,Jakarta Raya,-6.1987,106.82305,2022-01-01
+3173,447,Logam Mulia Refinery,61941,Gold,Facilities,Operating,Active,"Gold,Silver",Jakarta Raya,-6.17,106.84,2021-06-01
+3201,77,Pongkor,31021,Gold,Projects,Operating,Active,"Gold,Silver",Jawa Barat,-6.66007,106.56812,2022-07-01
+3201,439,Cariu,61855,Gold,Projects,Exploration,Inactive,Gold,Jawa Barat,-6.615,107.073,2012-09-01
+3202,70,Ciemas,30436,Copper,Projects,Target Outline,Inactive,"Copper,Gold",Jawa Barat,-7.1977,106.73232,2003-06-01
+3202,449,Wilton,62251,Gold,Projects,Grassroots,Inactive,Gold,Jawa Barat,-7.16549,106.56285,2011-02-01
+3202,63,Jampang,30096,Gold,Projects,Reserves Development,Active,"Gold,Copper,Silver",Jawa Barat,-7.10235,106.58619,2012-04-01
+3203,18,Cikondang,27528,Gold,Projects,Reserves Development,Inactive,"Gold,Zinc,Lead,Copper",Jawa Barat,-7.38815,107.04609,1997-07-01
+3203,162,Gunung Rosa,39160,Gold,Projects,Reserves Development,Active,"Gold,Silver,Zinc,Lead,Copper",Jawa Barat,-7.00444,107.08639,2016-07-01
+3204,598,Tri Daya Jaya Smelter,85774,Nickel,Facilities,Operating,Active,Nickel,Jawa Barat,-7.05192,107.51124,2020-09-01
+3204,460,Cimandiri,62839,Gold,Projects,Grassroots,Active,Gold,Jawa Barat,-7.0,107.5,2014-07-01
+3204,362,Akash,53108,Gold,Projects,,Inactive,Gold,Jawa Barat,-6.72675,107.36282,1998-10-01
+3204,183,Weiye,40020,Nickel,Projects,Operating,Inactive,"Nickel,Iron Ore",Jawa Barat,-7.10883,107.64885,2012-01-01
+3205,56,Limbung,29877,Zinc,Projects,Target Outline,Inactive,"Zinc,Lead,Gold",Jawa Barat,-7.4175,107.52251,2002-07-01
+3205,52,Papandayan,29834,Gold,Projects,Reserves Development,Active,"Gold,Silver",Jawa Barat,-7.41646,107.68304,2014-11-01
+3206,356,Salopa,52972,Gold,Projects,,Inactive,Gold,,-7.52553,108.30559,1995-07-01
+3216,627,Bekasi Smelter,86821,Lead,Facilities,Operating,Active,Lead,Jawa Barat,-6.28833,107.14567,2020-02-01
+3216,628,Bekasi Refinery,86822,Lead,Facilities,Operating,Active,Lead,Jawa Barat,-6.28824,107.14574,2020-02-01
+3301,91,Kutoarjo,33065,Iron Ore,Projects,Closed,Inactive,Iron Ore,Jawa Tengah,-7.66,109.03278,2015-03-01
+3312,137,Wonogiri,38625,Gold,Projects,Feasibility Started,Active,"Gold,Copper,Silver",Jawa Tengah,-7.79829,110.87302,2022-07-01
+3401,95,Jogjakarta,33958,Iron Ore,Projects,Feasibility Started,Active,Iron Ore,Yogyakarta,-7.92237,110.10508,2018-06-01
+3401,463,Stabil Megamas,63037,Manganese,Projects,Grassroots,Inactive,Manganese,Yogyakarta,-7.747,110.153,2014-04-01
+3503,235,Trenggalek,40814,Copper,Projects,Target Outline,Active,"Copper,Gold,Silver,Molybdenum",Jawa Timur,-8.16419,111.62284,2022-07-01
+3507,512,Malang,67328,Gold,Projects,Exploration,Inactive,"Gold,Copper,Silver",Jawa Timur,-8.38,112.76,2017-04-01
+3508,268,Dampar,41690,Iron Ore,Projects,Operating,Active,Iron Ore,Jawa Timur,-8.28583,113.08444,2013-01-01
+3510,106,Tujuh Bukit,35904,Gold,Projects,Expansion,Active,"Gold,Silver,Copper,Molybdenum",Jawa Timur,-8.61903,114.04245,2022-09-01
+3514,625,Pasuaran Smelter,86818,Lead,Facilities,Operating,Active,Lead,Jawa Timur,-7.58235,112.72057,2020-02-01
+3525,431,Gresik Smelter,61496,Copper,Facilities,Expansion,Active,Copper,Jawa Timur,-7.18,112.66,2020-01-01
+3525,456,Gresik Refinery,62660,Copper,Facilities,Operating,Active,Copper,Jawa Timur,-7.14105,112.63659,2020-01-01
+3525,655,Gebe Industry Plant,89501,Nickel,Facilities,Preproduction,Active,"Nickel,Cobalt",Jawa Timur,-7.13219,112.61253,2022-01-01
+3525,150,Pengulu,38957,Coal,Projects,Operating,Inactive,Coal,Jawa Timur,-6.92273,112.51817,2011-06-01
+3578,626,Pasuaran Refinery,86819,Lead,Facilities,Operating,Active,Lead,Jawa Timur,-7.25348,112.68664,2020-02-01
+3601,80,Cibaliung,31123,Gold,Projects,Operating,Active,"Gold,Silver",Banten,-6.75107,105.63384,2022-06-01
+3602,17,Pt Diah Mesa Jaya,27527,Gold,Projects,Closed,Inactive,Gold,Banten,-6.86167,106.30361,1990-04-01
+3602,11,Cikotok,27112,Gold,Projects,Closed,Inactive,"Gold,Silver",Banten,-6.74056,106.25,2017-02-01
+3602,430,Cikate,61425,Zinc,Projects,Advanced Exploration,Inactive,"Zinc,Lead",Banten,-6.735,106.21,2009-12-01
+3602,406,Gunung Julang,59932,Gold,Projects,Exploration,Inactive,"Gold,Silver",Banten,-6.638,106.406,2012-01-01
+3603,630,Banten Tangerang Refinery,86824,Lead,Facilities,Operating,Active,Lead,Banten,-6.22084,106.57206,2020-02-01
+3603,629,Banten Tangerang Smelter,86823,Lead,Facilities,Operating,Active,Lead,Banten,-6.22083,106.57208,2020-02-01
+3604,650,Cahaya Modern Plant,89487,Nickel,Facilities,Operating,Active,Nickel,Banten,-6.20878,106.32649,2021-01-01
+3604,641,IMP Minerals Smelter,89417,Zinc,Facilities,Feasibility,Active,Zinc,Banten,-6.20068,106.31236,
+3604,596,Century Metalindo Smelter,85772,Nickel,Facilities,Operating,Active,Nickel,Banten,-6.18316,106.31049,2020-09-01
+3604,412,Cikoleang,60108,Gold,Projects,Feasibility,Inactive,Gold,Banten,-6.08,106.28,2010-06-01
+3672,597,Indoferro Smelter,85773,Nickel,Facilities,Operating,Active,Nickel,Banten,-6.02991,105.95368,2020-09-01
+5201,94,West Lombok,33714,Gold,Projects,Feasibility Started,On Hold Awaiting Financing,"Gold,Copper,Silver",Nusa Tenggara Barat,-8.78556,115.95083,2018-07-01
+5204,125,East Elang,38037,Copper,Projects,Exploration,Active,"Copper,Gold",Nusa Tenggara Barat,-8.95583,117.45472,2016-05-01
+5204,587,Medco Smelter,85530,Copper,Facilities,Feasibility,Active,Copper,Nusa Tenggara Barat,-8.81673,117.5077,2020-09-01
+5204,126,Sabalong,38038,Gold,Projects,Exploration,Inactive,"Gold,Silver,Copper",Nusa Tenggara Barat,-8.74778,117.515,2012-10-01
+5204,592,Medco Refinery,85681,Copper,Facilities,Feasibility,Active,Copper,Nusa Tenggara Barat,-8.97901,116.81514,2020-09-01
+5204,25,Batu Hijau,28386,Copper,Projects,Operating,Active,"Copper,Gold,Silver",Nusa Tenggara Barat,-8.96528,116.8725,2020-05-01
+5204,139,Elang-Dodo,38642,Gold,Projects,Reserves Development,Active,"Gold,Copper,Silver",Nusa Tenggara Barat,-8.965,117.377,2016-02-01
+5204,96,West Sumbawa,34180,Gold,Projects,Limited Production,Active,"Gold,Silver",Nusa Tenggara Barat,-8.73117,116.84339,2018-10-01
+5205,582,Onto,84636,Copper,Projects,Prefeas/Scoping,Active,"Copper,Gold,Silver",Nusa Tenggara Barat,-8.84767,118.43577,2020-01-01
+5206,105,Bima,35778,Gold,Projects,Target Outline,Inactive,"Gold,Silver",Nusa Tenggara Barat,-8.61069,119.0227,2012-01-01
+5302,115,Sumba,36809,Gold,Projects,Exploration,Inactive,"Gold,Copper,Silver",Nusa Tenggara Timur,-10.10889,120.29861,2018-03-01
+5303,459,Kupang Smelter,62803,Manganese,Facilities,Construction Started,Care And Maintenance,"Manganese,Ferromanganese",Nusa Tenggara Timur,-10.23727,123.49092,2021-07-01
+5303,486,Kupang,65481,Manganese,Projects,Operating,Active,Manganese,Nusa Tenggara Timur,-10.207,123.781,2015-04-01
+5304,500,West Timor,66280,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.926,124.259,2013-02-01
+5304,469,West Timor,63745,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.67897,124.3464,2012-09-01
+5305,476,Fatunisuan,64354,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.58,124.35,2013-09-01
+5305,477,Nansean,64355,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.54,124.66,2013-09-01
+5305,464,Tasinifu,63208,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.411,124.252,2011-08-01
+5305,478,T’eba Biboki,64356,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.38,124.74,2013-09-01
+5305,506,West Timor,66825,Manganese,Projects,Operating,Inactive,Manganese,Nusa Tenggara Timur,-9.29,124.52,2014-10-01
+5305,502,Belu,66376,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.13,124.747,2013-04-01
+5306,475,Tniumanu,64353,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.42,124.8,2013-09-01
+5306,435,Belu,61845,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-9.095,125.132,2013-10-01
+5306,523,West Timor,67975,Copper,Projects,Grassroots,Inactive,Copper,Nusa Tenggara Timur,-9.03,124.92,2014-03-01
+5306,462,West Timor Smelter,63015,Ferromanganese,Facilities,Feasibility Started,Active,"Ferromanganese,Manganese",Nusa Tenggara Timur,-8.99,124.89,2015-06-01
+5313,499,Flores,66279,Manganese,Projects,Grassroots,Inactive,"Manganese,Silver,Copper,Zinc,Gold,Lead",Nusa Tenggara Timur,-8.45,120.84,2013-02-01
+5313,422,Flores Island,60872,Gold,Projects,Grassroots,Inactive,"Gold,Copper,Manganese,Lead,Zinc",Nusa Tenggara Timur,-8.408,120.776,2010-10-01
+5313,394,Manggarai,58170,Manganese,Projects,Grassroots,Inactive,Manganese,Nusa Tenggara Timur,-8.35,120.72,2008-12-01
+5313,428,Lemarang,61412,Manganese,Projects,Operating,Inactive,Manganese,Nusa Tenggara Timur,-8.298,120.511,2010-10-01
+5371,490,Big George West Timor,65914,Manganese,Projects,Feasibility,Inactive,Manganese,Nusa Tenggara Timur,-10.23,123.63,2012-07-01
+5371,572,Putra Indonesia Jaya,83602,Manganese,Projects,Preproduction,Care And Maintenance,Manganese,Nusa Tenggara Timur,-10.20219,123.55099,2020-08-01
+8101,353,Kali Kuning,52932,Gold,Projects,,Inactive,Gold,Maluku,-7.70909,126.32735,1994-05-01
+8101,10,Wetar,27065,Copper,Projects,Operating,Active,"Copper,Gold,Silver,Zinc,Limestone,Lead,Iron Ore",Maluku,-7.70694,126.32466,2022-09-01
+8101,637,Wetar Refinery,89023,Copper,Facilities,Operating,Active,Copper,Maluku,-7.70306,126.33097,2022-01-01
+8101,114,Romang Island,36702,Gold,Projects,Feasibility,Active,"Gold,Copper,Zinc,Lead,Silver,Manganese",Maluku,-7.625,127.34306,2014-10-01
+8103,76,Haruku Island,30952,Zinc,Projects,Target Outline,Inactive,"Zinc,Lead,Copper",Maluku,-3.55853,128.46547,2004-05-01
+8103,662,PT Integra Plant,89514,Nickel,Facilities,Operating,Inactive,Nickel,Maluku,-3.25402,130.14349,2022-01-01
+8103,623,Huake Smelter,85970,Nickel,Facilities,Feasibility Complete,Active,Nickel,Maluku,-3.16712,129.85718,2021-01-01
+8201,386,Obi Island,57440,Nickel,Projects,Grassroots,Inactive,"Nickel,Iron Ore,Cobalt",Maluku Utara,-1.62,127.71,2009-06-01
+8201,100,Obi Island,35393,Nickel,Projects,Feasibility,Under Litigation,Nickel,Maluku Utara,-1.57703,127.44717,2013-04-01
+8201,648,OBI RKEF Smelter,89485,Nickel,Facilities,Operating,Active,Nickel,Maluku Utara,-1.54006,127.42517,2021-01-01
+8201,613,Halmahera Persada Lygend Plant,85821,Nickel,Facilities,Operating,Active,"Cobalt,Nickel",Maluku,-1.53134,127.42333,2022-01-01
+8201,124,Taliabu,37921,Iron Ore,Projects,Preproduction,Active,Iron Ore,Maluku Utara,-1.8525,124.4175,2016-01-01
+8201,616,Megah Surya Pertiwi Smelter,85824,Nickel,Facilities,Operating,Active,Nickel,Maluku Utara,-1.53093,127.42326,2020-09-01
+8201,594,Wanatiara Persada Smelter,85770,Nickel,Facilities,Operating,Active,Nickel,Maluku,-1.46052,127.43365,2022-01-01
+8201,433,Obi,61589,Gold,Projects,Exploration,Inactive,"Gold,Zinc,Copper,Lead",Maluku Utara,-1.416,127.744,2011-09-01
+8201,98,Kaputusan,34582,Copper,Projects,Exploration,Inactive,"Copper,Gold",Maluku Utara,-0.53083,127.39333,2008-12-01
+8201,44,Toguraci,29643,Gold,Projects,Satellite,Active,"Gold,Silver",Maluku Utara,1.1408,127.67421,2016-04-01
+8201,92,Gosowong,33375,Gold,Projects,Operating,Active,"Gold,Silver,Copper",Maluku Utara,1.14219,127.69994,2020-08-01
+8201,482,Roko,64419,Gold,Projects,Grassroots,Inactive,Gold,Maluku Utara,1.88,127.78,2014-09-01
+8201,445,Kapa Kapa,61897,Gold,Projects,Grassroots,Inactive,"Gold,Copper,Silver",Maluku Utara,2.092,127.908,2014-09-01
+8202,670,Qingtian Smelter,89537,Nickel,Facilities,Preproduction,Active,Nickel,Maluku Utara,0.30329,127.78292,2021-07-01
+8202,575,Youshan Smelter,83920,Ferronickel,Facilities,Operating,Active,"Ferronickel,Nickel",Maluku,0.3347,127.87494,2021-06-01
+8202,646,Li Bai Plant,89483,Nickel,Facilities,Operating,Active,Nickel,Maluku Utara,0.47856,127.98204,2021-01-01
+8202,665,Huayou Plant,89527,Nickel,Facilities,Preproduction,Active,"Nickel,Cobalt",Maluku Utara,0.47914,127.98308,2021-07-01
+8202,583,Weidabe Industrial Park Smelter,85182,Nickel,Facilities,Construction Started,Active,Nickel,Maluku Utara,0.47924,127.98524,2019-12-01
+8202,640,Infei Metal Smelter,89408,Nickel,Facilities,Operating,Active,Nickel,Maluku Utara,0.4793,127.98161,2022-06-01
+8202,666,Langit Smelter,89529,Nickel,Facilities,Commissioning,Active,Nickel,Maluku Utara,0.4797,127.98402,2021-07-01
+8202,673,Weda Bay Plant,89542,Nickel,Facilities,Feasibility Started,Active,Nickel,Maluku Utara,0.481,127.99682,2021-07-01
+8202,66,Weda Bay,30273,Nickel,Projects,Operating,Active,"Nickel,Cobalt",Maluku Utara,0.50983,127.96233,2022-02-01
+8202,163,Maba,39372,Nickel,Projects,Reserves Development,Active,Nickel,Maluku Utara,0.70133,128.26793,2016-02-01
+8202,580,Waylukum,84437,Nickel,Projects,Target Outline,Active,Nickel,Maluku Utara,0.72208,128.17697,2020-01-01
+8202,103,Subayin,35577,Nickel,Projects,Reserves Development,Inactive,Nickel,Maluku Utara,0.73472,127.56139,2010-02-01
+8202,377,Sangaji,56327,Nickel,Projects,Prefeas/Scoping,Active,Nickel,Maluku Utara,0.75,128.155,2015-03-01
+8202,376,Pakal Island,56326,Nickel,Projects,Satellite,Active,Nickel,Maluku Utara,0.781,128.331,2017-04-01
+8202,365,Mornopo,54431,Nickel,Projects,Satellite,Active,Nickel,Maluku Utara,0.79164,128.17987,2015-03-01
+8202,366,Gee Island,54642,Nickel,Projects,Operating,Active,Nickel,Maluku Utara,0.831,128.325,2017-02-01
+8202,79,Buli,31090,Nickel,Projects,Satellite,Active,"Nickel,Iron Ore,Cobalt",Maluku Utara,0.843,128.27,2021-07-01
+8202,672,East Halmahera Plant,89541,Nickel,Facilities,Preproduction,Active,Nickel,Maluku Utara,0.8444,128.24852,2021-07-01
+8202,606,FeNi Haltim Smelter,85814,Nickel,Facilities,Commissioning,Active,Nickel,Maluku Utara,0.84528,128.24789,2022-01-01
+8202,458,East Halmahera Smelter,62759,Ferronickel,Facilities,Construction Started,Active,Ferronickel,Maluku Utara,0.8484,128.24656,2022-03-01
+8202,480,Saluta,64358,Manganese,Projects,Grassroots,Inactive,Manganese,Maluku Utara,1.30362,128.49591,2013-09-01
+6101,46,Buduk,29679,Gold,Projects,Limited Production,,Gold,Kalimantan Barat,0.99907,109.22971,1998-03-01
+6101,23,Sambas,27821,Gold,Projects,Closed,Inactive,Gold,Kalimantan Barat,1.76944,109.34056,1991-01-01
+6102,1,Monterado Placer,26491,Gold,Projects,Closed,Inactive,Gold,Kalimantan Barat,0.76587,109.15874,1993-04-01
+6103,551,Sebau,75777,Bauxite,Projects,Reserves Development,Active,Bauxite,Kalimantan Barat,0.45067,109.37466,2021-02-01
+6103,555,PT Borneo Edo International,76819,Bauxite,Projects,Reserves Development,Active,Bauxite,Kalimantan Barat,0.4522,109.47239,2021-02-01
+6103,420,Landak,60785,Bauxite,Projects,Grassroots,Inactive,Bauxite,Kalimantan Barat,0.483,109.637,2011-02-01
+6103,552,Purasak,75778,Bauxite,Projects,Reserves Development,Active,Bauxite,Kalimantan Barat,0.66805,109.35685,2021-02-01
+6103,40,Mandor,29536,Copper,Projects,Target Outline,Inactive,"Copper,Gold",Kalimantan Barat,0.70034,109.33918,1997-09-01
+6104,57,Sungai Raya,29899,Gold,Projects,Reserves Development,Inactive,Gold,Kalimantan Barat,-0.25707,109.62917,1996-10-01
+6104,452,Mempawah Refinery,62556,Alumina,Facilities,Construction Started,Active,Alumina,Kalimantan Barat,0.35514,108.95125,2019-06-01
+6105,545,PT Alu Sentosa,70418,Bauxite,Projects,Operating,Care And Maintenance,Bauxite,Kalimantan Barat,-0.35457,110.21347,2018-04-01
+6105,556,Meliau,76822,Bauxite,Projects,Reserves Development,Active,Bauxite,Kalimantan Barat,-0.19594,110.32952,2021-02-01
+6105,367,Tayan,55265,Bauxite,Projects,Operating,Active,Bauxite,Kalimantan Barat,-0.09,110.14,2022-06-01
+6105,453,Tayan Refinery,62639,Alumina,Facilities,Operating,Active,Alumina,Kalimantan Barat,-0.09,110.14,2021-01-01
+6105,68,Mirih,30403,Gold,Projects,Exploration,Inactive,Gold,Kalimantan Barat,0.02335,111.01099,1998-09-01
+6105,554,Balai Sebut,76530,Graphite,Projects,Prefeas/Scoping,Active,Graphite,Kalimantan Barat,0.47778,110.89875,2016-04-01
+6105,543,Entikong,70369,Gold,Projects,Grassroots,Inactive,Gold,Kalimantan Barat,0.85,110.323,2014-06-01
+6106,24,Riam Kusik,28343,Zinc,Projects,Reserves Development,Inactive,"Zinc,Lead,Silver",Kalimantan Barat,-2.07867,110.79412,1997-09-01
+6106,421,Tayan South,60786,Bauxite,Projects,Grassroots,Inactive,Bauxite,Kalimantan Barat,-0.637,110.557,2011-02-01
+6107,434,Remaja-Hitam,61796,U3O8,Projects,Closed,Inactive,U3O8,Kalimantan Barat,-0.52,112.13,2008-10-01
+6107,485,Sintang,65189,Gold,Projects,Exploration,Active,"Gold,Silver,Copper,Zinc,Lead",Kalimantan Barat,-0.27,111.25,2015-10-01
+6107,328,Yamabhumi Palaka,50527,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Barat,0.05194,111.49916,2011-12-01
+6107,214,Sintang,40485,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Barat,0.07111,111.50583,2012-05-01
+6107,14,Melawi River,27191,Gold,Projects,,Inactive,Gold,Kalimantan Barat,0.07139,111.89162,2000-01-01
+6107,202,SNR,40441,Coal,Projects,Exploration,Active,Coal,Kalimantan Barat,1.05,111.25,2016-05-01
+6108,484,Kapuas Hulu,65107,Gold,Projects,Grassroots,Inactive,Gold,Kalimantan Barat,0.385,112.73,2013-10-01
+6108,470,Selaup,63906,Gold,Projects,Exploration,Inactive,"Gold,Copper,Zinc,Lead,Silver",Kalimantan Barat,0.433,112.634,2014-01-01
+6108,71,Bunut,30501,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Barat,0.54673,112.59906,2003-07-01
+6108,60,Putussibau,29975,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Barat,0.88359,112.89245,2003-05-01
+6201,642,Pangkalan Bun Smelter,89423,Zinc,Facilities,Construction Started,Active,Zinc,Kalimantan Tengah,-2.63968,111.80126,
+6201,48,Ruwai,29784,Zinc,Projects,Feasibility,Inactive,"Zinc,Lead,Copper,Silver",Kalimantan Tengah,-1.53632,111.29827,1999-04-01
+6202,2,Cempaga Buang,26552,Gold,Projects,Closed,Inactive,"Gold,Zircon",Kalimantan Tengah,-2.20167,113.20806,1999-08-01
+6202,533,Qing Mei,68256,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Tengah,-2.0837,113.64058,2014-01-01
+6202,352,Ampalit,52810,Gold,Projects,,Inactive,"Gold,Zircon",Kalimantan Tengah,-2.0,113.25,2000-07-01
+6202,432,Ampalit Plant,61540,Zircon,Facilities,Closed,Inactive,"Zircon,Gold",Kalimantan Tengah,-1.97973,113.30396,2000-02-01
+6202,113,Desa Mirah Kalanaman,36677,Iron Ore,Projects,Prefeas/Scoping,Inactive,Iron Ore,Kalimantan Tengah,-1.621923,112.948681,2010-09-01
+6202,12,Mirah,27113,Gold,Projects,Preproduction,Inactive,"Gold,Silver",Kalimantan Tengah,-1.54056,112.92639,2008-09-01
+6202,169,Katingan Ria,39583,Coal,Projects,Feasibility Complete,Active,Coal,Kalimantan Tengah,-1.180926,112.875935,2018-04-01
+6202,196,Katingan,40269,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Tengah,-1.17551,112.88727,2015-12-01
+6202,348,Central Kalimantan,52736,Gold,Projects,,Inactive,"Gold,Copper,Zinc,Lead",Kalimantan Tengah,-0.58069,113.20888,1996-12-01
+6203,120,Gold Tiger,37675,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Tengah,-1.27,114.35222,2010-05-01
+6203,541,TTA,70043,Coal,Projects,Operating,,Coal,Kalimantan Tengah,-1.12014,114.44758,2011-01-01
+6203,424,Central Kalimantan (2),61061,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Tengah,-0.87625,114.255,2015-12-01
+6203,574,Mandiri,83791,Zircon,Projects,Operating,Active,"Zircon,Rutile,Leucoxene,Ilmenite,Heavy Mineral Sands",Kalimantan Tengah,-1.17471,113.83027,2019-08-01
+6203,50,Gunang Mas,29826,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Tengah,-1.083368,113.511481,2010-10-01
+6203,182,AAM,39986,Coal,Projects,Exploration,Active,Coal,Kalimantan Tengah,-0.92877,113.3889,2016-04-01
+6203,361,Masao,53096,Gold,Projects,,Inactive,Gold,Kalimantan Tengah,-0.67449,114.06156,1998-10-01
+6203,636,BKM (SX-EW) Refinery,89021,Copper,Facilities,Feasibility,Active,Copper,Kalimantan Tengah,-0.61247,113.46326,2022-01-01
+6203,143,KSK,38884,Copper,Projects,Feasibility Complete,Active,"Copper,Gold,Silver,Molybdenum,Lead,Zinc",Kalimantan Tengah,-0.59885,113.41527,2022-05-01
+6203,39,Marsuparia,29535,Copper,Projects,Target Outline,Inactive,"Copper,Gold",Kalimantan Tengah,-0.54667,114.04889,2006-01-01
+6203,285,AAK,49616,Coal,Projects,Exploration,Temporarily On Hold,Coal,Kalimantan Tengah,-0.45,113.75,2022-04-01
+6205,257,SEM,41447,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-1.38806,115.29722,2020-10-01
+6205,263,Karin,41596,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Tengah,-1.30944,114.79667,2014-01-01
+6205,324,Suprabari,50523,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-1.17853,114.65861,2011-12-01
+6205,564,Bunda Kandung,79055,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-1.14672,114.70276,2019-07-01
+6205,291,Pagun Taka,50188,Coal,Projects,Exploration,Active,Coal,Kalimantan Tengah,-1.11248,114.7405,2014-04-01
+6205,152,Muara Teweh,39092,Coal,Projects,Operating,Temporarily On Hold,Coal,Kalimantan Tengah,-0.95361,114.88778,2011-12-01
+6205,233,TKS,40680,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-0.94847,115.20734,2020-12-01
+6205,423,Central Kalimantan (1),61060,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Tengah,-0.94058,114.59552,2015-12-01
+6205,226,Bharinto,40548,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-0.82788,115.39341,2021-12-01
+6205,274,Barito,41889,Coal,Projects,Exploration,Active,Coal,Kalimantan Tengah,-0.674014,114.942999,2013-06-01
+6205,9,Indomoro and Sungai Kencana,27031,Gold,Projects,Feasibility,Inactive,Gold,Kalimantan Tengah,-0.6254,114.40296,1988-11-01
+6205,7,Mt Muro,26869,Gold,Projects,Operating,Care And Maintenance,"Gold,Silver",Kalimantan Tengah,-0.615792,114.349166,2015-06-01
+6205,570,NPR,83098,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Tengah,-0.52529,115.27458,2021-06-01
+6205,327,Tuhup,50526,Coal,Projects,Operating,Inactive,Coal,Kalimantan Tengah,-0.42289,114.84852,2020-07-01
+6205,292,TBAR,50206,Coal,Projects,Target Outline,Active,Coal,Kalimantan Tengah,-0.40051,114.23082,2022-09-01
+6205,310,Laung,50494,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Tengah,-0.37747,114.76206,2011-12-01
+6205,176,BBM,39774,Coal,Projects,Operating,On Hold Awaiting Financing,Coal,Kalimantan Tengah,-0.32778,114.09639,2022-09-01
+6205,313,Marunda,50498,Coal,Projects,Operating,Inactive,Coal,Kalimantan Tengah,-0.30514,114.72342,2011-12-01
+6205,130,Lampunut,38190,Coal,Projects,Operating,Active,Coal,Kalimantan Tengah,-0.12722,114.86942,2021-04-01
+6205,131,Luon,38191,Coal,Projects,Feasibility,Active,Coal,Kalimantan Tengah,-0.11556,114.90917,2020-03-01
+6205,111,Haju,36273,Coal,Projects,Operating,Care And Maintenance,Coal,Kalimantan Tengah,-0.11186,114.87576,2021-04-01
+6205,132,Bumbun,38192,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Tengah,-0.055,114.35806,2020-03-01
+6205,181,BBP,39985,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Tengah,-0.01056,114.76056,2022-04-01
+6205,51,Tujang,29827,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Tengah,0.01007,114.62227,1999-08-01
+6205,93,Liang Bulau,33624,Diamonds,Projects,Exploration,Inactive,Diamonds,Kalimantan Tengah,-0.25,113.5,2006-07-01
+6205,133,Juloi Northwest,38193,Coal,Projects,Feasibility,Active,Coal,Kalimantan Tengah,-0.11111,114.09194,2021-03-01
+6205,101,Murung Raya,35411,Iron Ore,Projects,Target Outline,Inactive,Iron Ore,Kalimantan Tengah,0.0416,114.27172,2007-05-01
+6205,567,Sumber Barito,80683,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Timur,0.18033,114.7188,2020-03-01
+6271,22,Tewah,27820,Gold,Projects,Reserves Development,Inactive,Gold,Kalimantan Tengah,-1.93306,113.91667,2010-09-01
+6301,227,Jorong,40549,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.89642,115.02842,2021-06-01
+6301,496,Citra Bara Prima,66125,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.873,115.219,2014-07-01
+6301,161,Arutmin,39155,Coal,Projects,Expansion,Active,Coal,Kalimantan Selatan,-3.830115,115.283468,2021-03-01
+6301,194,ADK,40240,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.8297,115.25747,2015-01-01
+6301,346,Pelaihari,52728,Gold,Projects,,Inactive,"Gold,Diamonds,Silver,Platinum,Palladium,Rhodium",Kalimantan Selatan,-3.79054,114.71953,1999-08-01
+6301,354,Bati Bati (Tabanio),52940,Diamonds,Projects,,Inactive,Diamonds,Kalimantan Selatan,-3.76179,114.63355,1998-10-01
+6301,307,Wahana Baratama,50473,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.74412,115.30142,2022-04-01
+6301,38,Tanah Laut,29497,Gold,Projects,Target Outline,Inactive,"Gold,Copper",Kalimantan Selatan,-3.66955,114.92268,2003-07-01
+6302,326,Tanah Bumbu,50525,Coal,Projects,Satellite,Active,Coal,Kalimantan Selatan,-3.64889,115.61411,2021-02-01
+6302,562,AJE,78185,Coal,Projects,Advanced Exploration,Active,Coal,Kalimantan Selatan,-3.6356,115.63698,2017-07-01
+6302,335,SDJ,51165,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.63321,115.6244,2022-04-01
+6302,171,Sebuku,39646,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.58678,116.36672,2017-12-01
+6302,441,Rizki,61885,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.521,115.909,2011-10-01
+6302,201,Astri Prima,40428,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Selatan,-3.50583,115.91611,2012-04-01
+6302,329,Subuku,50626,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.465576,116.383184,2015-12-01
+6302,180,PT Aries It Indo,39922,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.46139,115.97639,2014-01-01
+6302,42,Kusan,29590,Gold,Projects,Reserves Development,Inactive,Gold,Kalimantan Selatan,-3.40306,115.9369,2006-03-01
+6302,550,CV CKMM,70818,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Selatan,-3.77,115.51,2014-12-01
+6302,340,CV Cantung Karya Mitra Mandiri,52540,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.76753,115.43127,2014-12-01
+6302,231,BIB,40678,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.68031,115.49241,2022-07-01
+6302,408,Sungai Danau,60061,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Selatan,-3.58068,115.4663,2010-11-01
+6302,260,Hitric,41472,Coal,Projects,Preproduction,Active,Coal,Kalimantan Selatan,-3.37716,115.67651,2013-05-01
+6302,185,PBM,40076,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.36541,115.82725,2012-04-01
+6302,158,Trimitra Sembada,39139,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Selatan,-3.26639,116.02306,2011-07-01
+6302,159,Cahaya Alam Sejahtera,39140,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Selatan,-3.23833,116.00333,2011-07-01
+6302,149,TCM,38924,Coal,Projects,Feasibility,Active,Coal,Kalimantan Selatan,-3.23739,115.70393,2018-11-01
+6302,165,PT Yiwan,39515,Nickel,Projects,Operating,,"Nickel,Iron Ore",Kalimantan Selatan,-3.195,116.0,2012-10-01
+6302,160,CV Rahma,39141,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Selatan,-3.18639,115.97333,2011-07-01
+6302,507,PUE,66991,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.18,115.77,2013-10-01
+6302,513,RMA,67384,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.17,115.956,2013-10-01
+6302,294,Geronggang,50279,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Selatan,-2.96963,116.22534,2015-12-01
+6302,265,SPC,41599,Coal,Projects,Exploration,Active,Coal,Kalimantan Selatan,-2.93972,116.21722,2015-12-01
+6302,357,Sungei Durian,53020,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-2.77717,115.94885,1999-04-01
+6302,396,Peta Lokasi,58417,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-2.677,116.179,2011-05-01
+6302,75,Sampanahan,30893,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Selatan,-2.67016,116.17516,2001-07-01
+6302,135,South East Kalimantan,38413,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-2.62694,115.97028,2022-06-01
+6302,282,KEL,42073,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-2.5966,115.95185,2011-12-01
+6303,289,KCM,50166,Coal,Projects,Preproduction,Active,Coal,Kalimantan Selatan,-3.34522,115.06684,2013-05-01
+6303,300,Batu Tungku,50397,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-3.29794,115.01024,2011-12-01
+6303,325,Taj,50524,Coal,Projects,Closed,Inactive,Coal,Kalimantan Selatan,-3.27055,115.13698,2014-06-01
+6303,322,WIRA,50521,Coal,Projects,Feasibility,Inactive,Coal,Kalimantan Selatan,-3.21088,115.24767,2016-02-01
+6303,540,PT Tanjung Alam Jaya,69545,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.20908,115.16196,2020-04-01
+6303,299,Baramarta,50396,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-3.20886,115.26784,2011-12-01
+6303,561,Rantau Nangka,77792,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.19485,115.24755,2019-07-01
+6303,311,Kadya Caraka,50496,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-3.19368,114.92795,2011-12-01
+6303,542,PMM,70044,Coal,Projects,Operating,Inactive,Coal,Kalimantan Selatan,-3.17522,115.28399,2011-01-01
+6305,323,Sarang Semut,50522,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-3.11654,115.07032,2011-12-01
+6305,297,Antang Gunung Meratus,50393,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-3.05011,115.1443,2021-04-01
+6306,493,Malinau Selatan,66037,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Selatan,-2.83951,115.41885,2012-08-01
+6306,164,Mangkok,39386,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-2.56,114.98,2012-10-01
+6307,28,Gendang Timburu,28539,Gold,Projects,Reserves Development,Inactive,"Gold,Silver",Kalimantan Selatan,-2.53333,115.55,2006-09-01
+6308,301,Bentala,50398,Coal,Projects,Operating,,Coal,Kalimantan Selatan,-2.38832,115.6279,2011-12-01
+6308,286,Balangan,49966,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-2.36461,115.57747,2022-03-01
+6309,510,Paringin,67297,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-2.22686,115.47736,2021-03-01
+6309,509,Tutupan,67296,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-2.217,115.492,2021-03-01
+6309,511,Wara,67298,Coal,Projects,Operating,Active,Coal,Kalimantan Selatan,-2.21312,115.5009,2021-03-01
+6309,563,Tambang Tabalong IPC,78415,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Selatan,-2.10313,115.51244,2019-12-01
+6309,315,Tutui,50500,Coal,Projects,Operating,Inactive,Coal,Sulawesi Tengah,-1.93501,115.39924,2012-07-01
+6309,399,Tabalong,58985,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Selatan,-1.625,115.529,2011-08-01
+6309,142,Tabalong,38853,Coal,Projects,Feasibility,Inactive,Coal,Kalimantan Selatan,-1.53823,115.48813,2021-11-01
+6371,247,South Kalimantan,41066,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Selatan,-3.32806,114.58917,2017-08-01
+6371,437,Sampit-Bati Bati Plant,61852,Ilmenite,Facilities,Closed,Inactive,"Ilmenite,Rutile,Zircon,Heavy Mineral Sands,Gold",Kalimantan Selatan,-3.32,114.59,2012-10-01
+6372,82,Cempaka,31368,Diamonds,Projects,Operating,Active,"Diamonds,Platinum,Palladium,Gold",Kalimantan Selatan,-3.50988,114.84107,2017-02-01
+6401,284,Busang,42085,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.87756,116.7644,2013-03-01
+6401,174,Apac Coal,39677,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,-2.183336,115.89736,2017-08-01
+6401,200,Paser,40384,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Timur,-2.0934,116.06207,2014-09-01
+6401,273,Petangis,41815,Coal,Projects,Exploration,Active,Coal,Kalimantan Timur,-2.0625,116.06944,2013-01-01
+6401,342,Petangis,52674,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,-2.062,116.096,2003-07-01
+6401,368,Indonesian,55277,Coal,Projects,Operating,,Coal,Kalimantan Timur,-1.97,116.2,2007-01-01
+6401,153,Kideco,39114,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-1.87417,115.85194,2014-12-01
+6401,279,B34,42054,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Timur,-1.563,115.792,2015-01-01
+6401,308,Interex Sacra Raya,50486,Coal,Projects,Limited Production,Inactive,Coal,Kalimantan Timur,-1.5497,116.1085,2011-12-01
+6401,189,B26,40123,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-1.49537,116.12452,2015-01-01
+6401,370,Concession 2,55665,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-1.49385,116.49168,2006-07-01
+6401,267,PT PAR,41685,Coal,Projects,Limited Production,Inactive,Coal,Kalimantan Timur,-1.45737,116.14114,2014-10-01
+6401,338,Penajam,51455,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-1.26922,116.63769,2015-01-01
+6401,472,BEK,64141,Coal,Projects,Feasibility,Inactive,Coal,Kalimantan Timur,-1.25,116.617,2013-10-01
+6401,244,Penajam East,41060,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-1.24303,116.63623,2017-08-01
+6401,195,Atan Bara,40268,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Timur,-1.23,116.63,2015-12-01
+6401,481,PT Try Nanda 2,64393,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,-1.154,116.42,2011-10-01
+6401,255,PT Try Nanda,41422,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-1.13288,116.45163,2012-01-01
+6401,261,Penajam Paser Utara,41476,Coal,Projects,Exploration,Active,Coal,Kalimantan Timur,-1.05722,116.6125,2013-04-01
+6402,147,Pagar,38922,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-1.02373,115.90581,2011-08-01
+6402,400,East Kalimantan,59046,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.9501,116.02,2009-03-01
+6402,225,Trubaindo,40547,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.798853,115.614193,2021-12-01
+6402,228,Aries,40583,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,-0.5075,115.52833,2013-11-01
+6402,565,TIS,79546,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Timur,-0.77243,115.71103,2018-03-01
+6402,573,Surya Tambang Tolindo,83692,Coal,Projects,Target Outline,Active,Coal,Kalimantan Timur,-0.66657,115.66709,2021-02-01
+6402,385,Landas Paeu,57375,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Timur,-0.57838,115.7813,2008-10-01
+6402,305,Gunungbayan Block II,50463,Coal,Projects,Closed,Rehabilitation,Coal,Kalimantan Timur,-0.54912,115.99606,2020-01-01
+6402,271,Melak,41714,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.420834,115.735417,2022-04-01
+6402,547,BOSS,70462,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.367,115.81,2014-05-01
+6402,350,West Kutai,52761,Gold,Projects,,Inactive,Gold,Kalimantan Timur,-0.23504,115.61618,1995-10-01
+6402,3,Kelian,26562,Gold,Projects,Closed,Inactive,"Gold,Silver",Kalimantan Timur,-0.03999,115.42841,2008-03-01
+6402,198,Kubah Indah,40339,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.03828,115.05819,2012-04-01
+6402,407,Jawana/Borami,59948,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,-0.05,115.9,2012-04-01
+6402,248,East Kalimantan,41067,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.03715,115.61112,2012-10-01
+6402,245,BEK Mine,41063,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.00889,115.59167,2022-04-01
+6402,272,CEP,41734,Coal,Projects,Exploration,,Coal,Kalimantan Timur,0.11885,115.70845,2012-12-01
+6402,151,GPK,39081,Coal,Projects,Target Outline,Active,Coal,Kalimantan Timur,0.142429,115.702083,2018-12-01
+6402,277,East Kalimantan,42006,Coal,Projects,Reserves Development,,Coal,Kalimantan Timur,0.448922,115.195381,2012-11-01
+6402,129,Mamahak,38138,Coal,Projects,Operating,Care And Maintenance,Coal,Kalimantan Timur,0.471,115.428,2020-01-01
+6402,467,Kalimantan,63573,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,1.06336,114.22588,2013-04-01
+6403,359,Amborowang,53064,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Timur,-1.12,117.0,1998-12-01
+6403,146,Rahmat,38921,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,-1.08333,116.95,2011-08-01
+6403,179,Singlurus Pratama,39881,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-1.08,116.974,2021-12-01
+6403,205,BMU,40447,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.91917,117.22194,2011-11-01
+6403,254,CV Java Hunian,41421,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.81583,116.82972,2012-01-01
+6403,557,PT Rinjani,76994,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.7455,116.89215,
+6403,337,BSSR,51304,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.74331,117.051,2020-06-01
+6403,288,Delta,50007,Coal,Projects,Operating,Under Litigation,Coal,Kalimantan Timur,-0.72078,117.22667,2018-09-01
+6403,461,Dimori,62976,Coal,Projects,Advanced Exploration,Inactive,Coal,Kalimantan Timur,-0.692,117.184,2011-09-01
+6403,243,International Prima,41039,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.6562,117.17405,2020-12-01
+6403,157,Samarinda - IPC,39118,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,-0.6547,117.1686,2020-12-01
+6403,321,Sanga Sanga,50520,Coal,Projects,Operating,Inactive,Coal,Kalimantan Timur,-0.64932,117.26121,2016-02-01
+6403,536,Loa Janan,69468,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.64918,117.06858,2004-01-01
+6403,234,Toba Bara Mines,40682,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.60972,117.12833,2014-04-01
+6403,166,Ranrich,39560,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,-0.60281,117.212,2012-12-01
+6403,287,ABK,50003,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.59722,117.04014,2011-12-01
+6403,210,Insani Bara Perkasa,40460,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.59656,117.13589,2011-12-01
+6403,206,GPL,40448,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.57056,117.04861,2011-03-01
+6403,314,MPP,50499,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.538865,116.923424,2017-01-01
+6403,295,Anggana,50329,Coal,Projects,Operating,Temporarily On Hold,Coal,Kalimantan Timur,-0.50744,117.31115,2014-02-01
+6403,409,Lower Mahakam,60062,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.45,117.325,2010-11-01
+6403,283,KSM,42084,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.57591,116.60957,2014-07-01
+6403,402,MBK,59433,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,-0.539,116.714,2012-04-01
+6403,416,Gunungbayan Block I,60556,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.484,116.514,2020-01-01
+6403,193,Jongkang I,40198,Coal,Projects,Operating,Care And Maintenance,Coal,Kalimantan Timur,-0.4459,117.04752,2015-11-01
+6403,483,Jongkang II,64476,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,-0.445,117.048,2015-12-01
+6403,145,Jongkang,38920,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,-0.43333,117.01667,2011-08-01
+6403,341,GDM,52556,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.39378,117.09006,2019-03-01
+6403,401,Bara Pratama,59431,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,-0.39,116.976,2012-04-01
+6403,548,Loa Ulung,70690,Coal,Projects,Operating,Inactive,Coal,Kalimantan Timur,-0.38711,117.00898,2017-07-01
+6403,220,Fajar Bumi Sakti,40541,Coal,Projects,Operating,Inactive,Coal,Kalimantan Timur,-0.37602,117.00677,2015-05-01
+6403,290,Borneo Emas Hitam,50187,Coal,Projects,Operating,On Hold Awaiting Higher Prices,Coal,Kalimantan Timur,-0.33849,117.02305,2015-12-01
+6403,224,Embalut,40546,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.33,117.10278,2021-06-01
+6403,281,Tanito Harum,42071,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.3225,116.85341,2011-12-01
+6403,184,Mada Perkasa,40053,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.32111,117.15417,2012-04-01
+6403,177,Lanna Harita,39878,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.29592,117.3031,2021-12-01
+6403,535,Embalut OP,68454,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,-0.29476,117.13472,2007-01-01
+6403,312,Mahakam Sumber Jaya,50497,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.28472,117.2075,2011-12-01
+6403,238,MSJ,40995,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.28472,117.20752,2020-11-01
+6403,172,Jembayan,39647,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.15804,117.16959,2017-12-01
+6403,251,IBP,41377,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Timur,0.33139,116.32833,2010-11-01
+6403,549,Tabang,70692,Coal,Projects,Operating,Inactive,Coal,Kalimantan Timur,0.393,116.145,2017-05-01
+6403,199,MBK,40340,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,0.43111,116.22386,2012-04-01
+6403,203,Tabang,40444,Coal,Projects,Target Outline,Active,Coal,Kalimantan Timur,0.5,115.98333,2012-10-01
+6403,144,Pakar,38892,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Timur,0.51137,116.11702,2022-04-01
+6403,239,SB,40996,Coal,Projects,Operating,Care And Maintenance,Coal,Kalimantan Timur,-0.10213,117.16074,2021-08-01
+6403,520,KUP,67941,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.037,117.257,2020-12-01
+6403,175,Tabang,39724,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.54501,116.16865,2022-04-01
+6403,33,Busang,29082,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Timur,0.90083,116.01009,1998-10-01
+6403,15,Muara Atan,27208,Gold,Projects,Target Outline,Inactive,Gold,Kalimantan Timur,1.25139,116.23278,1991-08-01
+6204,236,Jindal Indonesia,40924,Coal,Projects,Reserves Development,Inactive,Coal,Kalimantan Tengah,-2.17639,115.21611,2017-03-01
+6204,215,South Barito,40486,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Tengah,-1.74333,114.83972,2012-05-01
+6204,269,eForce Indonesia,41692,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Tengah,-1.73,115.18306,2012-12-01
+6204,331,Sungai Roi,50983,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Tengah,-1.68596,115.29273,2015-05-01
+6204,355,Buntok,52952,Coal,Projects,,Inactive,Coal,Kalimantan Tengah,-1.57681,115.28588,1998-01-01
+6405,212,Binungan,40465,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,1.99164,117.39175,2017-11-01
+6405,173,Berau,39652,Coal,Projects,Feasibility,Inactive,Coal,Kalimantan Timur,1.846933,117.280032,2012-12-01
+6405,256,SMJ,41446,Coal,Projects,Operating,,Coal,Kalimantan Timur,1.99027,117.38805,2013-10-01
+6405,491,PT MAS,66028,Coal,Projects,Operating,On Hold Awaiting Higher Prices,Coal,Kalimantan Timur,2.05973,117.33715,2019-01-01
+6405,369,Concession 1,55664,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,2.0873,117.31877,2006-03-01
+6405,204,PPC,40446,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,2.50528,117.38861,2011-11-01
+6405,262,BIG,41489,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Timur,2.53333,117.225,2014-01-01
+6405,213,Sambarata,40466,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,2.16374,117.41197,2017-10-01
+6405,211,Lati,40464,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,2.33532,117.56727,2017-10-01
+6406,336,Malinau,51302,Coal,Projects,Operating,Active,Coal,Kalimantan Utara,3.14096,116.45916,2022-04-01
+6407,74,Sekatak,30880,Silver,Projects,Target Outline,Inactive,"Silver,Copper,Gold,Lead,Zinc",Kalimantan Utara,3.166,117.0612,1999-11-01
+6407,53,Jelai,29841,Gold,Projects,Reserves Development,Temporarily On Hold,"Gold,Silver,Lead,Zinc,Copper",Kalimantan Timur,3.22722,116.98833,2017-05-01
+6407,410,Tarakan,60063,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,3.267,117.295,2010-11-01
+6407,526,Bebatu,68057,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,3.57,117.176,2014-03-01
+6407,264,MMBP,41597,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,2.57833,117.44972,2014-01-01
+6407,304,Bulungan,50455,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,2.76748,117.43213,2021-12-01
+6407,330,Bunyu,50681,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,3.51587,117.84478,2020-05-01
+6408,492,PT SMU,66029,Coal,Projects,Construction Started,Inactive,Coal,Kalimantan Timur,3.66881,117.17481,2018-07-01
+6408,209,Mandiri,40459,Coal,Projects,Operating,,Coal,Kalimantan Utara,3.71128,117.22152,2016-05-01
+6408,334,Seruyung,51085,Gold,Projects,Operating,Active,Gold,Kalimantan Utara,3.905,117.24712,2019-12-01
+6408,246,Nunukan,41064,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Utara,4.15439,117.19559,2013-04-01
+6472,302,Gitan,50400,Coal,Projects,Feasibility,Active,Coal,Kalimantan Timur,-0.51968,117.06136,2013-03-01
+6472,319,Nusa Minera Utama,50518,Coal,Projects,Feasibility,Inactive,Coal,Kalimantan Timur,-0.49327,117.2173,2011-12-01
+6472,168,Bukit Baiduri,39573,Coal,Projects,Operating,,Coal,Kalimantan Timur,-0.47804,117.07141,2013-10-01
+6472,522,Tanah Merah,67951,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,-0.432,117.264,2021-12-01
+6472,178,Citra Harita,39880,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,-0.40897,117.26891,2015-03-01
+6472,186,Abadi,40079,Coal,Projects,Operating,On Hold Awaiting Higher Prices,Coal,Kalimantan Timur,-0.40001,117.33332,2015-04-01
+6472,440,Samarinda,61884,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,-0.4,117.18,2013-09-01
+6474,585,Bontang Smelter,85528,Copper,Facilities,Feasibility,Active,Copper,Kalimantan Timur,0.10967,117.47211,2020-09-01
+6474,590,Bontang Refinery,85679,Copper,Facilities,Feasibility,Active,Copper,Kalimantan Timur,0.1119,117.47298,2020-09-01
+6474,534,Bontang,68415,Coal,Projects,Closed,Inactive,Coal,Kalimantan Timur,0.1333,117.35,2003-01-01
+6474,632,Indomico,87800,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.1472,117.28681,2021-08-01
+6474,222,Indominco Mandiri,40544,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.15,117.28,2021-06-01
+6474,242,East Kalimantan Concessions,41038,Coal,Projects,Exploration,Inactive,Coal,Kalimantan Timur,0.16833,117.17111,2012-08-01
+6474,223,Tandung Mayang,40545,Coal,Projects,Closed,Rehabilitation,Coal,Kalimantan Timur,0.22453,117.2402,2020-04-01
+7101,26,Minahasa,28388,Gold,Projects,Closed,Inactive,Gold,Sulawesi Utara,0.53306,124.40595,2013-02-01
+7101,383,Bakan,56944,Gold,Projects,Satellite,Active,Gold,Sulawesi Utara,0.57,124.31,2019-12-01
+7101,128,Tanoyan,38086,Gold,Projects,Reserves Development,Inactive,Gold,Sulawesi Utara,0.61111,124.25806,2014-09-01
+7101,426,Bomong,61264,Gold,Projects,Grassroots,Inactive,Gold,Sulawesi Utara,0.613,124.249,2011-01-01
+7101,69,Lanut,30409,Gold,Projects,Target Outline,Inactive,Gold,Sulawesi Utara,0.64401,124.39853,2003-07-01
+7101,87,North Lanut,32305,Gold,Projects,Operating,Active,"Gold,Silver",Sulawesi Utara,0.67806,124.45889,2020-02-01
+7101,35,Doup,29359,Gold,Projects,Construction Started,Active,Gold,Sulawesi Utara,0.8305,124.6215,2020-11-01
+7102,415,Manado,60263,Gold,Projects,Operating,Inactive,Gold,Sulawesi Utara,0.90942,124.68131,2011-07-01
+7102,45,Toka Tindung,29672,Gold,Projects,Operating,Active,"Gold,Silver",Sulawesi Utara,1.59497,125.09308,2014-11-01
+7103,104,Sangihe,35645,Gold,Projects,Construction Started,Active,"Gold,Silver,Copper",Sulawesi Utara,3.48033,125.65141,2022-09-01
+7103,37,Sangihe,29396,Gold,Projects,Exploration,Inactive,"Gold,Copper",Sulawesi Utara,3.49119,125.64514,1997-04-01
+7103,438,Sangihe Island,61853,Iron Ore,Projects,Grassroots,Inactive,"Iron Ore,Iron Sand",Sulawesi Utara,3.662,125.556,2012-09-01
+7203,170,Morowali,39642,Nickel,Projects,Feasibility,Inactive,Nickel,Sulawesi Tenggara,-3.23056,122.325,2011-11-01
+7203,620,Transon Bumindo Smelter,85828,Nickel,Facilities,Commissioning,Active,Nickel,Sulawesi Tengah,-3.05318,122.26939,2020-09-01
+7203,618,TAS Smelter,85826,Nickel,Facilities,Preproduction,Active,Nickel,Sulawesi Tengah,-3.01862,122.23379,2020-09-01
+7203,568,Hengjaya,81026,Nickel,Projects,Expansion,Active,"Nickel,Cobalt",Sulawesi Tengah,-2.94009,122.23515,2022-09-01
+7203,631,Bahodopi Plant,87542,Nickel,Facilities,Prefeas/Scoping,Active,Nickel,Sulawesi Tengah,-2.86377,122.1682,2021-06-01
+7203,617,QMB Plant,85825,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tengah,-2.86047,122.16344,2020-09-01
+7203,667,Walsin Smelter,89533,Nickel,Facilities,Preproduction,Active,Nickel,Sulawesi Tengah,-2.85794,122.15984,2021-07-01
+7203,602,Cahaya Sulawesi Smelter,85778,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.85383,122.16811,2022-05-01
+7203,633,HNC HPAL Smelter,87993,Nickel,Facilities,Preproduction,Active,"Nickel,Cobalt",Sulawesi Tengah,-2.85222,122.17956,2021-10-01
+7203,571,Ranger RKEF Smelter,83149,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.85174,122.16555,2020-10-01
+7203,569,Hengjaya RKEF Smelter,81030,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.85096,122.1655,2022-07-01
+7203,610,Bukit Sulawesi Smelter,85818,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.84852,122.16509,2022-05-01
+7203,668,ZhongTsing Smelter,89534,Nickel,Facilities,Preproduction,Active,Nickel,Sulawesi Tengah,-2.83614,122.17021,2021-07-01
+7203,634,Oracle,88068,Nickel,Projects,Construction Started,Active,Nickel,Sulawesi Tengah,-2.83502,122.1718,2022-08-01
+7203,601,Tsingshan Steel Smelter,85777,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.83469,122.16221,2020-09-01
+7203,624,Morowali Processing Facility,86138,Copper,Projects,Construction Started,Active,"Copper,Gold,Silver,Zinc,Iron Ore",Sulawesi Tengah,-2.8337,122.16814,2022-09-01
+7203,603,Tsingshan Stainless Smelter,85779,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.83284,122.1678,2020-09-01
+7203,647,NPI to Matte Plant,89484,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.83227,122.16185,2021-01-01
+7203,593,Guang Ching Smelter,85769,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.8287,122.16224,2020-09-01
+7203,671,Yongheng Smelter,89538,Nickel,Facilities,Preproduction,Active,Nickel,Sulawesi Tengah,-2.82749,122.16444,2021-07-01
+7203,600,Sulawesi Mining Investment Smelter,85776,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.82562,122.16194,2020-09-01
+7203,658,TISCO Plant,89507,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.77715,122.0328,2022-01-01
+7203,560,PT Central Omega NPI Smelter,77498,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-2.10584,121.50488,2020-09-01
+7203,664,Gunbuster Smelter,89524,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tengah,-1.9967,121.43202,2021-07-01
+7203,109,Sulawesi,36076,Nickel,Projects,Preproduction,Inactive,Nickel,Sulawesi Tengah,-1.96861,121.33472,2010-11-01
+7203,559,PT Central Omega Mines,77495,Nickel,Projects,Operating,Active,Nickel,Sulawesi Tengah,-1.94036,121.29217,2021-12-01
+7203,612,COR Industri Smelter,85820,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tengah,-1.93794,121.32012,2020-09-01
+7203,372,Central Sulawesi,56186,Nickel,Projects,Exploration,Inactive,"Nickel,Cobalt",Sulawesi Tengah,-1.93,121.55,2013-03-01
+7203,621,Wanxiang Smelter,85829,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tengah,-2.73425,122.03255,2020-09-01
+7203,102,Bahodopi,35538,Nickel,Projects,Feasibility Started,Active,Nickel,Sulawesi Tengah,-2.71,121.955,2021-01-01
+7203,88,La Sampala,32468,Nickel,Projects,Reserves Development,Active,"Nickel,Cobalt",Sulawesi Tengah,-2.70389,121.92778,2015-02-01
+7203,607,Huaqai Plant,85815,Nickel,Facilities,Construction Planned,Active,Nickel,Sulawesi Tengah,-1.68377,121.16703,2020-09-01
+7204,649,Bumi Sulawesi Plant,89486,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Selatan,-1.73663,120.65347,2021-01-01
+7205,498,Donggala,66227,Gold,Projects,Grassroots,Inactive,Gold,Sulawesi Tengah,-0.845,119.706,2016-05-01
+7205,501,Sulawesi,66281,Gold,Projects,Grassroots,Inactive,"Gold,Copper,Zinc,Lead",Sulawesi Tengah,-0.50604,119.79387,2013-02-01
+7206,116,Malala,36855,Molybdenum,Projects,Exploration,Inactive,Molybdenum,Sulawesi Tengah,0.70376,120.45581,2017-08-01
+7206,474,Toli Toli,64352,Manganese,Projects,Grassroots,Active,Manganese,Sulawesi Tengah,0.777,120.807,2015-09-01
+7207,293,Persada,50272,Gold,Projects,Exploration,Inactive,"Gold,Silver,Copper,Lead,Zinc,Molybdenum,Graphite",Sulawesi Tengah,1.15524,121.22504,2017-04-01
+7271,518,Iron Ocean,67865,Iron Ore,Projects,Operating,Inactive,Iron Ore,Sulawesi Tengah,-0.90028,119.83357,2014-01-01
+7271,123,Poboya,37919,Gold,Projects,Limited Production,Active,Gold,Sulawesi Tengah,-0.86528,119.94139,2021-12-01
+7271,73,Palu,30861,Gold,Projects,Exploration,Inactive,Gold,Sulawesi Tengah,-0.85911,119.99824,1999-01-01
+7303,663,PT Zhongning Smelter,89517,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tenggara,-5.58011,120.0658,2022-01-01
+7303,619,Titan Mineral Smelter,85827,Nickel,Facilities,Commissioning,Active,Nickel,Sulawesi Selatan,-5.57694,120.0672,2020-09-01
+7303,614,Huadi Alloy Smelter,85822,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Selatan,-5.57693,120.06719,2020-09-01
+7304,605,Bosowa Plant,85813,Nickel,Facilities,Commissioning,Active,Nickel,Sulawesi Selatan,-5.61755,119.55062,2020-09-01
+7308,586,Maros Smelter,85529,Copper,Facilities,Feasibility,Active,"Copper,Gold",Sulawesi Selatan,-4.96168,119.56348,2020-09-01
+7308,591,Maros Refinery,85680,Copper,Facilities,Feasibility,Active,Copper,Sulawesi Selatan,-4.95008,119.58292,2020-09-01
+7311,525,South Sulawesi,68011,Iron Ore,Projects,Grassroots,Inactive,Iron Ore,Sulawesi Selatan,-4.61636,120.20497,2014-07-01
+7311,589,Antam Refinery,85678,Copper,Facilities,Feasibility,Active,Copper,Sulawesi Selatan,-4.30522,120.11452,2020-09-01
+7313,584,Antam Smelter,85527,Copper,Facilities,Feasibility,Active,Copper,Sulawesi Selatan,-4.08574,120.06487,2020-09-01
+7313,661,Ningxia Hengshun Smelter,89512,Nickel,Facilities,Operating,Active,Nickel,,-3.86395,120.14209,2022-01-01
+7316,187,Palapa,40080,Coal,Projects,Exploration,On Hold Awaiting Financing,Coal,Sulawesi Selatan,-3.46861,119.875,2015-06-01
+7317,31,Awak Mas,28958,Gold,Projects,Feasibility Complete,Active,"Gold,Copper",Sulawesi Selatan,-3.3637,120.11699,2022-01-01
+7317,611,Bumi Mineral Sulawesi Smelter,85819,Ferronickel,Facilities,Construction Planned,Active,"Ferronickel,Nickel",Sulawesi Tenggara,-3.13137,120.23578,2020-09-01
+7317,444,Palopo,61895,Gold,Projects,Exploration,Inactive,Gold,Sulawesi Selatan,-3.01814,120.1339,2014-09-01
+7318,451,Novienindo,62347,Copper,Projects,Grassroots,Inactive,"Copper,Gold",Sulawesi Selatan,-2.833,119.666,2013-10-01
+7319,479,Talondo,64357,Manganese,Projects,Grassroots,Inactive,Manganese,Sulawesi Barat,-2.75038,119.29647,2013-09-01
+7322,241,Lampia,41019,Nickel,Projects,Target Outline,Inactive,Nickel,Sulawesi Selatan,-2.74556,121.09861,2012-09-01
+7322,127,USSU,38085,Nickel,Projects,Target Outline,Inactive,Nickel,Sulawesi Selatan,-2.57274,121.06934,2011-06-01
+7322,121,Luwu,37819,Nickel,Projects,Target Outline,Inactive,Nickel,Sulawesi Selatan,-2.57245,121.09236,2010-08-01
+7322,450,Soroako Smelter,62286,Ferronickel,Facilities,Operating,,"Ferronickel,Nickel",Sulawesi Selatan,-2.569,121.379,2008-09-01
+7322,674,Luwu timur Smelter,89584,Nickel,Facilities,Feasibility Complete,Active,Nickel,Sulawesi Tengah,-2.56897,121.3803,2022-09-01
+7322,599,Sorowako Smelter,85775,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Selatan,-2.56841,121.37944,2020-09-01
+7322,16,Sorowako,27363,Nickel,Projects,Operating,Active,"Nickel,Cobalt",Sulawesi Selatan,-2.56798,121.37506,2022-07-01
+7371,659,Yusco Smelter,89509,Nickel,Facilities,Construction Planned,Active,Nickel,Sulawesi Selatan,-5.1477,119.50799,2022-01-01
+7401,558,Timah Nickel,77256,Nickel,Projects,Operating,Active,Nickel,Sulawesi Tenggara,-5.25955,121.82351,2022-04-01
+7403,657,PT Sambas Plant,89505,Nickel,Facilities,Commissioning,Active,Nickel,Sulawesi Tenggara,-4.45646,122.36024,2022-01-01
+7403,615,Macika Mineral Smelter,85823,Nickel,Facilities,Operating,Care And Maintenance,Nickel,Sulawesi Tenggara,-4.45574,122.3587,2020-09-01
+7403,609,Bintang Smelter,85817,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tenggara,-4.40122,122.19836,2020-09-01
+7403,651,Fujian Pan Plant,89495,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tenggara,-4.40098,122.19843,2022-01-01
+7403,595,Virtue Dragon Smelter,85771,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tenggara,-3.90293,122.41645,2020-09-01
+7403,660,Hengshun Plant,89511,Nickel,Facilities,Operating,Active,Nickel,Sulawesi Tenggara,-3.87102,122.44363,2022-01-01
+7403,514,Hanking Group,67403,Nickel,Projects,Operating,Active,"Nickel,Iron Ore",Sulawesi Tenggara,-3.6,122.0,2018-07-01
+7403,652,MBG Smelter,89497,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tenggara,-3.58625,122.16973,2022-01-01
+7403,108,Mandiodo,35922,Nickel,Projects,Feasibility Complete,Active,Nickel,Sulawesi Tenggara,-3.54779,122.19817,2015-03-01
+7403,375,Bahubulu,56324,Nickel,Projects,Reserves Development,Active,"Nickel,Cobalt",Sulawesi Tenggara,-3.545,122.31,2017-12-01
+7403,471,Lalindu,63930,Nickel,Projects,Reserves Development,Active,Nickel,Sulawesi Tenggara,-3.4627,122.28738,2015-03-01
+7403,84,Tapunopaka,31780,Nickel,Projects,Operating,Active,"Nickel,Iron Ore,Cobalt,Magnesium",Sulawesi Tenggara,-3.4627,122.28738,2022-04-01
+7403,635,Sulawesi Cahaya Mineral,88763,Nickel,Projects,Reserves Development,Active,"Nickel,Cobalt",Sulawesi Tenggara,-3.00026,121.81975,2022-08-01
+7404,78,Pomalaa,31089,Nickel,Projects,Operating,Active,"Nickel,Iron Ore,Cobalt,Magnesium",Sulawesi Tenggara,-4.23359,121.60422,2022-04-01
+7404,30,Pomalaa East,28852,Nickel,Projects,Feasibility,Active,Nickel,Sulawesi Tenggara,-4.22492,121.68711,2022-07-01
+7404,669,PTVI Plant,89536,Nickel,Facilities,Preproduction,Active,Nickel,Sulawesi Tenggara,-4.21353,121.58613,2021-07-01
+7404,446,Pomalaa Smelter,61939,Ferronickel,Facilities,Operating,Active,"Ferronickel,Nickel,Cobalt",Sulawesi Tenggara,-4.187,121.611,2020-09-01
+7404,532,Tamboli,68253,Graphite,Projects,Prefeas/Scoping,Active,Graphite,Sulawesi Tenggara,-3.92,121.35,2016-06-01
+7404,608,Lapaopao Block Smelter,85816,Nickel,Facilities,Construction Started,Active,Nickel,Sulawesi Tenggara,-3.85394,121.29805,2020-09-01
+7404,654,Indotama HPAL Plant,89499,Nickel,Facilities,Construction Started,Active,"Nickel,Cobalt",Sulawesi Tenggara,-3.85382,121.30017,2022-01-01
+7501,345,Marisa,52693,Gold,Projects,,Inactive,Gold,Gorontalo,0.48814,121.95163,1991-06-01
+7501,5,Marisa,26664,Gold,Projects,Closed,Inactive,Gold,Gorontalo,0.5,121.98333,1989-11-01
+7501,237,Pani,40940,Gold,Projects,Prefeas/Scoping,Active,Gold,Gorontalo,0.56144,121.99314,2022-09-01
+7501,54,Gunung Pani,29858,Gold,Projects,Target Outline,Inactive,Gold,Gorontalo,0.56167,121.99944,1998-08-01
+7501,384,Gorontalo,57116,Gold,Projects,Construction Planned,Active,"Gold,Copper,Silver",Gorontalo,0.57099,122.02488,2021-02-01
+7502,20,Gorontalo,27730,Copper,Projects,Prefeas/Scoping,Active,"Copper,Gold,Silver,Molybdenum",Gorontalo,0.31454,123.34911,2021-12-01
+7502,392,Tapadaa,57879,Copper,Projects,Exploration,Inactive,"Copper,Gold,Silver",Gorontalo,0.52,123.18,2018-01-01
+7502,530,Biyonga,68203,Copper,Projects,Exploration,Inactive,"Copper,Gold",Gorontalo,0.71,123.01,2016-07-01
+7502,457,Toluludu/Biyonga,62756,Copper,Projects,Grassroots,Inactive,"Copper,Gold",Gorontalo,0.72961,122.73925,2009-06-01
+7502,529,Toluludu,68202,Copper,Projects,Target Outline,Inactive,"Copper,Gold,Silver,Molybdenum",Gorontalo,0.73,122.75,2018-01-01
+7502,531,Tahele,68204,Copper,Projects,Exploration,Inactive,"Copper,Gold,Silver",Gorontalo,0.74,123.1,2016-07-01
+1102,455,Pananggalan,62650,Iron Ore,Projects,Advanced Exploration,Inactive,Iron Ore,Aceh,2.64,98.01,2014-04-01
+1103,454,Bakongan,62644,Manganese,Projects,Grassroots,Inactive,Manganese,Aceh,2.876,97.696,2014-04-01
+1103,230,Kruang Batee,40663,Iron Ore,Projects,Exploration,Inactive,Iron Ore,Aceh,2.93352,97.62482,2008-06-01
+1103,417,Aceh,60569,Copper,Projects,Exploration,Inactive,"Copper,Gold",Aceh,3.43949,97.09888,2016-12-01
+1103,229,Alur Sungai Pinang,40662,Iron Ore,Projects,Exploration,Inactive,Iron Ore,Aceh,3.77889,96.815,2008-06-01
+1104,364,Meluak,53510,Gold,Projects,Exploration,Inactive,Gold,Aceh,3.7987,97.59514,2010-01-01
+1104,382,Barisan II,56930,Copper,Projects,Advanced Exploration,Active,"Copper,Gold,Silver",Aceh,4.0312,97.27827,2020-10-01
+1106,107,Barisan 1,35912,Gold,Projects,Reserves Development,Active,"Gold,Silver",Aceh,4.315,97.16139,2021-12-01
+1106,413,Badak,60134,Gold,Projects,Exploration,Inactive,"Gold,Copper",Aceh,4.534,96.807,2012-08-01
+1106,374,Takengon,56240,Copper,Projects,Exploration,Inactive,"Copper,Gold",Aceh,4.78181,96.59175,2020-10-01
+1107,317,Meulaboh,50516,Coal,Projects,Exploration,Inactive,Coal,Aceh,4.11417,96.20229,2011-12-01
+1107,316,Meulaboh,50515,Coal,Projects,Exploration,Active,Coal,Aceh,4.14345,96.12812,2013-11-01
+1107,278,CVM Coal,42038,Coal,Projects,Exploration,Inactive,Coal,Aceh,4.44917,96.55,2014-04-01
+1107,516,Beutong,67575,Copper,Projects,Prefeas/Scoping,Active,"Copper,Molybdenum,Gold,Silver",Aceh,4.479,96.57,2022-05-01
+1108,363,Aceh,53123,Gold,Projects,Grassroots,Inactive,Gold,Aceh,5.69821,95.07878,2001-01-01
+1109,436,Woyla,61849,Gold,Projects,Target Outline,Active,"Gold,Silver,Copper",Aceh,4.76,96.15,2022-09-01
+1109,8,Woyla,26955,Gold,Projects,Operating,Inactive,Gold,Aceh,4.77519,96.13603,1989-07-01
+1109,405,Sable,59748,Gold,Projects,Grassroots,Inactive,Gold,Aceh,4.795,96.013,2012-08-01
+1109,110,Miwah,36246,Gold,Projects,Reserves Development,Temporarily On Hold,"Gold,Silver",Aceh,4.832461,96.292386,2020-10-01
+1109,333,Banda Raya,51046,Gold,Projects,Target Outline,Active,Gold,Aceh,4.89503,96.39325,2014-03-01
+1109,381,Tangse,56929,Copper,Projects,Exploration,Temporarily On Hold,"Copper,Molybdenum",Aceh,5.011,95.845,2014-12-01
+1202,89,Pungkut,32614,Gold,Projects,Construction Started,Active,"Gold,Copper,Silver",Sumatera Utara,0.86925,99.47826,2022-08-01
+1203,360,Aek Pahu,53090,Gold,Projects,Exploration,Inactive,Gold,Sumatera Utara,1.49487,99.04367,2016-04-01
+1203,86,Martabe,32223,Gold,Projects,Expansion,Active,"Gold,Silver",Sumatera Utara,1.51495,99.06439,2017-03-01
+1208,55,Mangani,29868,Gold,Projects,Target Outline,Inactive,Gold,Sumatera Utara,2.66078,99.24438,2004-12-01
+1208,466,Kuala Tanjung Smelter,63566,Aluminum,Facilities,Operating,,Aluminum,Sumatera Utara,3.35044,99.4535,
+1210,371,Sarkea,55800,Copper,Projects,Exploration,Inactive,"Copper,Zinc,Lead,Tin,Tungsten,Molybdenum,Iron Ore,Silver,Magnetite",Sumatera Utara,2.77,98.145,2017-12-01
+1210,72,Dairi,30822,Zinc,Projects,Construction Started,Active,"Zinc,Lead,Silver",Sumatera Utara,2.785,98.134,2021-12-01
+1212,351,Paramasan,52773,Gold,Projects,,Inactive,Gold,Sumatera Utara,3.3013,98.7877,1988-11-01
+1301,47,Karang,29697,Gold,Projects,Target Outline,Inactive,"Gold,Copper",Sumatera Barat,-1.38,98.86771,1998-02-01
+1302,140,Tapan,38844,Coal,Projects,Reserves Development,Active,Coal,Sumatera Barat,-2.11556,101.13889,2018-06-01
+1302,442,Lumpo,61887,Coal,Projects,Exploration,Inactive,Coal,Sumatera Barat,-1.34,100.63,2011-10-01
+1302,253,Atoz,41413,Coal,Projects,Preproduction,Inactive,Coal,Sumatera Barat,-1.32083,100.59444,2018-04-01
+1302,528,Painan,68167,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Barat,-1.314,100.604,2014-12-01
+1302,332,TPN,51012,Coal,Projects,Operating,On Hold Awaiting Higher Prices,Coal,Sumatera Barat,-1.3087,100.60606,2016-04-01
+1302,473,Sumatran,64260,Coal,Projects,Prefeas/Scoping,Inactive,Coal,Sumatera Barat,-1.28354,100.5751,2011-10-01
+1302,190,Lumpo,40139,Coal,Projects,Target Outline,Active,Coal,Sumatera Barat,-1.26611,100.5775,2012-10-01
+1303,517,BCS,67769,Iron Ore,Projects,Exploration,Inactive,Iron Ore,Sumatera Barat,-1.571,101.144,2017-03-01
+1303,97,Lubuk Gadang,34495,Zinc,Projects,Reserves Development,Inactive,"Zinc,Lead",Sumatera Barat,-1.51597,101.2122,2010-12-01
+1303,527,Solok,68164,Iron Ore,Projects,Feasibility,On Hold Awaiting Higher Prices,Iron Ore,Sumatera Barat,-0.945,100.933,2016-04-01
+1303,379,Singkarak,56834,Copper,Projects,Grassroots,Inactive,"Copper,Gold",Sumatera Barat,-0.6811,100.598,2008-10-01
+1304,503,Block 7,66406,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Barat,-1.196,101.794,2013-04-01
+1304,99,Rawang Gadang,35147,Iron Ore,Projects,Target Outline,Inactive,Iron Ore,Sumatera Barat,-1.08333,101.21667,2008-10-01
+1305,275,Allied Indo,41924,Coal,Projects,Operating,,Coal,Sumatera Barat,-0.51667,100.63333,2011-12-01
+1306,191,Aie Dingin,40175,Iron Ore,Projects,Preproduction,Inactive,Iron Ore,Sumatera Barat,-0.80083,100.40889,2012-02-01
+1306,43,Tanjung Balit,29606,Zinc,Projects,Target Outline,Inactive,"Zinc,Lead,Silver,Gold",Sumatera Barat,-0.41032,100.17371,1997-02-01
+1307,112,Agam Iron Sands,36381,Iron Ore,Projects,Reserves Development,Active,Iron Ore,Sumatera Barat,-0.20329,99.80616,2012-12-01
+1308,296,MBM,50355,Coal,Projects,Operating,,Coal,Sumatera Barat,0.01816,100.77536,2014-09-01
+1309,134,Sontang,38297,Gold,Projects,Exploration,Inactive,"Gold,Silver,Zinc,Copper,Lead",Sumatera Barat,0.44806,99.93722,2015-09-01
+1373,155,Ombilin Mining Unit,39116,Coal,Projects,Closed,Inactive,Coal,Sumatera Barat,-0.62494,100.75582,2020-12-01
+1402,154,Peranap Mine,39115,Coal,Projects,Operating,Active,Coal,Riau,-0.592,102.04,2020-12-01
+1402,259,Rengat,41460,Coal,Projects,Target Outline,Active,Coal,Riau,-0.33778,102.38028,2018-02-01
+1403,320,Riau,50519,Coal,Projects,Operating,,Coal,Riau,-0.75667,102.93696,2011-12-01
+1406,429,Reudeup,61422,Coal,Projects,Exploration,Inactive,Coal,Riau,0.69991,100.69044,2010-10-01
+1409,148,Jambi,38923,Coal,Projects,Exploration,Inactive,Coal,Riau,1.4875,101.0975,2011-08-01
+1502,216,Bangko,40487,Coal,Projects,Exploration,Inactive,Coal,Jambi,-2.72249,102.02944,2012-11-01
+1502,373,Muara Manderas,56187,Gold,Projects,Exploration,Inactive,Gold,Jambi,-2.65819,101.90566,2015-01-01
+1502,397,Bangko-Merangin,58515,Coal,Projects,Exploration,Inactive,Coal,Jambi,-2.064,102.279,2013-05-01
+1502,117,Nalo Baru,36886,Iron Ore,Projects,Operating,,Iron Ore,Jambi,-2.01609,102.06906,2012-11-01
+1503,141,Sarolangun,38852,Coal,Projects,Operating,Active,Coal,Jambi,-2.30627,102.78378,2020-10-01
+1503,309,Intitirta Primasakti,50487,Coal,Projects,Operating,,Coal,Jambi,-2.08707,103.10227,2011-12-01
+1503,208,MP,40450,Coal,Projects,Exploration,Inactive,Coal,Jambi,-2.05444,102.6675,2011-11-01
+1504,249,PT Sarwa,41082,Coal,Projects,Reserves Development,Inactive,Coal,Jambi,-1.94363,103.03766,2022-06-01
+1507,419,Sokki Prima,60572,Coal,Projects,Grassroots,Inactive,Coal,Jambi,-1.299,103.214,2012-03-01
+1507,418,CV Chandra Jaya,60571,Coal,Projects,Exploration,Inactive,Coal,Jambi,-1.157,102.957,2012-03-01
+1508,266,Jambi,41615,Coal,Projects,Reserves Development,Active,Coal,Jambi,-1.35167,102.54361,2014-09-01
+1508,448,West Tanjung Jabung,62211,Coal,Projects,Grassroots,Inactive,Coal,Jambi,-1.11409,102.33954,2012-03-01
+1509,207,MBT,40449,Coal,Projects,Exploration,Inactive,Coal,Jambi,-1.64972,101.93667,2011-11-01
+1509,318,Muara Bungo,50517,Coal,Projects,Operating,,Coal,Jambi,-1.59928,101.92055,2011-12-01
+1509,504,Block 9,66409,Coal,Projects,Advanced Exploration,Inactive,Coal,Jambi,-1.413,101.856,2014-11-01
+1509,232,KIM,40679,Coal,Projects,Operating,Active,Coal,Jambi,-1.40968,101.72192,2020-12-01
+1601,343,Kukusan,52685,Gold,Projects,,Inactive,Gold,Sumatera Selatan,-4.42668,104.06988,2001-01-01
+1603,391,Rambang Daku,57863,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Selatan,-3.9741,103.85201,2007-10-01
+1603,576,PT Bara Anugrah Sejahtera,84076,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.8217,103.78618,2020-06-01
+1603,495,Bukit Kendi,66087,Coal,Projects,Closed,Rehabilitation,Coal,Sumatera Selatan,-3.797,103.741,2018-12-01
+1603,218,BEE,40532,Coal,Projects,Exploration,Active,Coal,Sumatera Selatan,-3.78554,103.97683,2021-04-01
+1603,539,Banko Barat & Tengah,69471,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.77734,103.83335,2020-12-01
+1603,390,Gunung Megang,57862,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Selatan,-3.76818,103.82065,2007-10-01
+1603,537,Tambang Air Laya,69469,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.73827,103.7824,2020-12-01
+1603,156,Tanjung Enim,39117,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.73599,103.78248,2022-08-01
+1603,515,Indonesia,67418,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.40082,104.11776,2017-03-01
+1603,221,Pendopo,40542,Coal,Projects,Feasibility Complete,Active,Coal,Sumatera Selatan,-3.31121,103.957216,2018-01-01
+1604,388,Nimbung,57860,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Selatan,-3.83362,103.60287,2007-10-01
+1604,389,Rawas Ilir,57861,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Selatan,-3.81432,103.56944,2007-10-01
+1604,546,DAS,70461,Coal,Projects,Operating,Inactive,Coal,Sumatera Selatan,-3.769,103.627,2014-05-01
+1604,538,Muara Tiga Besar,69470,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.73214,103.73343,2020-12-01
+1604,217,MIP,40531,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.71407,103.63086,2022-03-01
+1604,577,PT Banjarsari Pribumi,84078,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-3.67636,103.71448,2019-12-01
+1605,387,Muara Lakitan,57859,Coal,Projects,Grassroots,Inactive,Coal,Sumatera Selatan,-3.20945,103.49874,2007-10-01
+1605,13,Tembang,27135,Gold,Projects,Operating,Care And Maintenance,"Gold,Silver",Sumatera Selatan,-2.86125,102.65331,2018-08-01
+1605,494,Musi Rawas,66039,Gold,Projects,Grassroots,Inactive,"Gold,Silver",Sumatera Selatan,-2.84123,102.66994,2017-12-01
+1605,553,Mutara,75892,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-2.61533,103.14544,2015-03-01
+1605,578,BSL,84305,Coal,Projects,Operating,Active,Coal,Sumatera Selatan,-2.54356,103.24259,2022-07-01
+1605,339,Triaryani,52410,Coal,Projects,Preproduction,Active,Coal,Sumatera Selatan,-2.49343,103.10584,2014-04-01
+1606,639,WRL,89307,Coal,Projects,Reserves Development,Active,Coal,Sumatera Selatan,-2.97327,103.65391,2021-12-01
+1606,298,Astaka Dodol,50395,Coal,Projects,Reserves Development,,Coal,Sumatera Selatan,-2.58601,103.38966,2013-10-01
+1606,276,BMP,41925,Coal,Projects,Reserves Development,Inactive,Coal,Sumatera Selatan,-2.52472,103.87833,2011-12-01
+1701,118,Seluma Iron Sands,37138,Iron Ore,Projects,Exploration,Inactive,Iron Ore,Bengkulu,-4.28333,102.71667,2011-09-01
+1701,192,Kilisuci,40192,Coal,Projects,Exploration,Inactive,Coal,Bengkulu,-3.92972,102.73194,2015-06-01
+1701,303,Bukit Bara Utama,50454,Coal,Projects,Operating,,Coal,Bengkulu,-3.91311,102.55779,2011-12-01
+1702,83,Tiris,31433,Gold,Projects,Exploration,Inactive,"Gold,Silver",Bengkulu,-3.14722,102.20861,2002-06-01
+1702,27,Lebong Donok,28534,Gold,Projects,Target Outline,Inactive,Gold,Bengkulu,-3.10874,102.18347,1999-03-01
+1702,59,Tambang Sawah,29932,Gold,Projects,Reserves Development,Inactive,Gold,Bengkulu,-3.04049,102.1857,1999-03-01
+1703,280,Seluang,42070,Coal,Projects,Operating,,Coal,Bengkulu,-3.78125,102.52207,2011-12-01
+1703,519,Bengkulu,67881,Coal,Projects,Advanced Exploration,Inactive,Coal,Bengkulu,-3.495,102.28,2014-01-01
+1703,270,Bengkulu,41709,Coal,Projects,Exploration,Inactive,Coal,Bengkulu,-3.43836,102.10896,2017-05-01
+1703,411,Bengkulu,60080,Coal,Projects,Grassroots,Inactive,Coal,Bengkulu,-3.08946,101.74618,2010-07-01
+1703,6,Bengkulu,26777,Gold,Projects,Operating,Inactive,Gold,Bengkulu,-3.01833,101.8975,2010-01-01
+1703,0,Tandai,25676,Gold,Projects,Target Outline,Active,"Gold,Silver",Bengkulu,-3.01667,101.85,2017-08-01
+1703,250,MukoMuko,41115,Coal,Projects,Exploration,Active,Coal,Bengkulu,-2.81972,101.55361,2014-02-01
+1802,524,Lampung,68010,Iron Ore,Projects,Operating,Inactive,Iron Ore,Lampung,-5.59406,104.77283,2014-07-01
+1802,347,Lampung,52735,Gold,Projects,,Inactive,Gold,Lampung,-5.29002,104.41051,1989-05-01
+1802,32,Way Linggo,29008,Gold,Projects,Expansion,Active,"Gold,Silver",Lampung,-5.288,104.40998,2022-07-01
+1805,443,Lampung,61889,Coal,Projects,Exploration,Inactive,Coal,Lampung,-4.92,105.29,2011-01-01
+1807,488,Sugico,65535,Coal,Projects,Grassroots,Inactive,Coal,Lampung,-4.839,104.538,2014-12-01
+1807,67,Ojolali,30387,Gold,Projects,Reserves Development,Active,"Gold,Silver",Lampung,-4.67703,104.51583,2016-09-01
+1871,49,Karya Bukit Utama,29786,Gold,Projects,Target Outline,Inactive,"Gold,Silver",Lampung,-5.41167,105.21028,2003-02-01
+1901,465,Koba Refinery,63537,Tin,Facilities,Operating,,Tin,Bangka Belitung,-2.5,106.4167,
+1901,29,PT Koba Tin,28686,Tin,Projects,Closed,Inactive,Tin,Bangka Belitung,-2.48111,106.42056,2016-01-01
+1901,19,Timah,27554,Tin,Projects,Operating,Active,"Tin,Lanthanum,Thorium,Yttrium,Cerium,Ilmenite",Bangka Belitung,-2.26427,105.89565,2022-04-01
+1902,81,Lilangan,31201,Gold,Projects,Exploration,Inactive,Gold,Bangka Belitung,-3.11861,108.0825,1999-05-01
+1902,258,Yinchen,41452,Tin,Projects,Reserves Development,Inactive,Tin,Bangka Belitung,-2.9318,107.72376,2016-09-01
+1902,90,Belitung,32727,Tin,Projects,Satellite,Active,Tin,Bangka Belitung,-2.78917,108.23278,2016-06-01
+1902,61,Tikus,30029,Tin,Projects,Reserves Development,Inactive,"Tin,Tungsten",Bangka Belitung,-2.69761,107.76605,2003-05-01
+1902,64,Kelapa Kampit,30146,Zinc,Projects,Reserves Development,Inactive,"Zinc,Lead,Silver,Tin",Bangka Belitung,-2.69194,108.08444,2008-04-01
+6404,505,Sangatta,66544,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.592,117.492,2019-06-01
+6404,487,Damanka,65533,Coal,Projects,Operating,Inactive,Coal,Kalimantan Timur,0.71,117.59,2015-12-01
+6404,544,Sangatta,70378,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.77,117.43,2013-09-01
+6404,306,Perkasa,50472,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.77371,117.65127,2022-04-01
+6404,404,Bengalon,59677,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,0.774,117.587,2021-12-01
+6404,566,GAM,79993,Coal,Projects,Operating,Active,Coal,Kalimantan Timur,1.11016,117.69822,2017-01-01
+6404,252,PT Ganda Alam Makmur,41400,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Timur,1.111678,117.696226,2012-07-01
+6404,393,Mesra,57893,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,1.54531,117.7456,2010-04-01
+6404,240,TBH,40997,Coal,Projects,Preproduction,Care And Maintenance,Coal,Kalimantan Timur,0.534056,117.332084,2020-08-01
+6404,425,East Kalimantan (3),61062,Coal,Projects,Grassroots,Inactive,Coal,Kalimantan Timur,0.62438,117.2685,2015-12-01
+6404,167,BCKP,39561,Coal,Projects,Target Outline,Inactive,Coal,Kalimantan Timur,0.83333,117.18333,2012-03-01
+6404,138,East Kutai,38634,Coal,Projects,Preproduction,Under Litigation,Coal,Kalimantan Timur,0.91664,116.58338,2019-03-01
+6404,219,BEP,40533,Coal,Projects,Reserves Development,Active,Coal,Kalimantan Timur,1.23604,116.76429,2021-03-01
