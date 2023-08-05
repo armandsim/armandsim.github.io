@@ -38,13 +38,13 @@ In settings where resistance and rampant misinformation against vaccines exist, 
     *Being revised* <br>
  {: style="text-align: justify"}
 
-<br>
-
 **Identifying the Most Cost-Effective Way to Large-scale Vaccination in Rural Bangladesh** <br>
 with Dinesh Arora, Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 
 **Promoting COVID-19 Vaccination in India** <br>
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
+
+<br>
 
 ## works in progress
 
