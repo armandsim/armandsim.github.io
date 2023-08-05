@@ -40,15 +40,13 @@ In settings where resistance and rampant misinformation against vaccines exist, 
 
 <br>
 
-## works in progress
-
 **Identifying the Most Cost-Effective Way to Large-scale Vaccination in Rural Bangladesh** <br>
 with Dinesh Arora, Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
-*draft coming soon* <br>
 
 **Promoting COVID-19 Vaccination in India** <br>
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
-*draft coming soon* <br>
+
+## works in progress
 
 **Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in World's Fastest Sinking City** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
