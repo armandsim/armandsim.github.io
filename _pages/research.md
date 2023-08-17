@@ -22,7 +22,7 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 
 **[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](https://www.dropbox.com/s/y5az95rwldhxxhg/AKS_Ghana_2023_Jan.pdf?raw=1)** <br>
 with Patrick Asuming and Hyuncheol Bryant Kim <br>
-*R&R, Health Economics* <br>
+*Revision submitted, Health Economics* <br>
 
  We study the long-run effects of a health insurance subsidy in Ghana, where mandates are not enforceable. We randomly provide different subsidy levels (1/3, 2/3, and full) and evaluate the impacts at seven months and three years after the intervention. We find that providing a one-time subsidy promotes insurance enrollment for all treatment groups, but long-run health care service utilization increases only in the partial subsidy group. We find supportive evidence that ex-post behavioral responses rather than ex-ante selective enrollment explain the long-run health care utilization results. 
  {: style="text-align: justify"}
