@@ -16,8 +16,6 @@ with Asep Suryahadi and Daniel Suryadarma <br>
  The paper measures the effect of child market work on the long-term growth of human capital, focusing on the output of the human capital production: mathematics skills, cognitive skills, pulmonary function, and educational attainment. Our full sample is drawn from a rich longitudinal dataset Indonesia Family Life Survey (IFLS). We address endogeneity of child market work using provincial legislated minimum wage as the instrument. Our instrumental variable estimation shows that child labor negatively affects mathematics skills and pulmonary function, but not cognitive skills and educational attainment. We find heterogeneities in type of work. Those who work outside of family business have lower educational attainment than those working for family business.
  {: style="text-align: justify"}
 
-<br>
-
 **[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](/docs/IZA_DP_Vax.pdf)** <br>
 with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
 *European Economic Review (conditionally accepted)* <br>
