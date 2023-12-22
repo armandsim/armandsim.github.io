@@ -9,7 +9,7 @@ nav_order: 2
 
 ## publication
 
-**[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](/docs/AKS_Ghana_Aug23.pdf)** <br>
+**[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](/docs/AKS_Ghana_Dec23.pdf)** <br>
 with Patrick Asuming and Hyuncheol Bryant Kim <br>
 *Forthcoming, Health Economics* <br>
 
