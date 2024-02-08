@@ -18,7 +18,7 @@ We study the effects of a health insurance subsidy in Ghana, where mandates are 
 
 **[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](/docs/Vaccine_EER.pdf)** <br>
 with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
-*Forthcoming, European Economic Review* <br>
+*European Economic Review, 2024, 163, 104683* <br>
 
 In settings where resistance and rampant misinformation against vaccines exist, the prospect of containing infectious diseases remains a challenge. Can delivery of information regarding the benefits of vaccination through personal home visits by local ambassadors increase vaccine uptake? We conduct a door-to-door randomized information campaign targeted towards COVID-19 unvaccinated individuals in rural Indonesia. We recruited ambassadors from local villages tasked to deliver information about COVID-19 vaccines and promote vaccination through one-on-one meetings, using an interpersonal behavioral change communication approach. To investigate which type of ambassador—health cadres, influential individuals, and laypersons—is the most effective, we randomly vary the type of ambassador that delivers the information at the village level. We find that the overall vaccination take-up is quite moderate and that there are no differences in vaccination outcomes across the treatment groups. These results highlight the challenge of boosting vaccine uptake in late stages of a pandemic.
  {: style="text-align: justify"}
@@ -35,8 +35,6 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 ## working papers 
 
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
-    *Being revised* <br>
- {: style="text-align: justify"}
 
 **Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** <br>
 with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
@@ -52,7 +50,6 @@ with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 
 **Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in World's Fastest Sinking City** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
-*data collection completed* <br>
 
 **Impacts of Mineral Export Ban in Indonesia** <br>
 with Hyuk Harry Son <br>
