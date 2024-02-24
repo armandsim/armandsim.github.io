@@ -32,7 +32,7 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 
 <br>
 
-*## working papers 
+## working papers 
 
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
 
@@ -46,7 +46,7 @@ with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Pa
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Submitted* <br>
 
-<br>*
+<br>
 
 ## works in progress
 
