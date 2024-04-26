@@ -56,8 +56,8 @@ with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
 *Draft coming soon* <br>
 
-**Impacts of Mineral Export Ban in Indonesia** <br>
-with Hyuk Harry Son <br>
+<!-- **Impacts of Mineral Export Ban in Indonesia** <br>
+with Hyuk Harry Son <br> -->
 
 **The Tyranny of Distance** <br>
 with Arya Gaduh <br>
