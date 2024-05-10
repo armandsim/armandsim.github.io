@@ -36,6 +36,9 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
 
+**Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in World's Fastest Sinking City** <br>
+with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
+
 <br>
 
 ## other papers
@@ -48,8 +51,6 @@ with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Pa
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Submitted* <br>
 
-**Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in World's Fastest Sinking City** <br>
-with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
 <br>
 
 ## works in progress
