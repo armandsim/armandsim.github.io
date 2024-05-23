@@ -39,10 +39,6 @@ with Asep Suryahadi and Daniel Suryadarma <br>
 **Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in World's Fastest Sinking City** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
 
-<br>
-
-## other papers
-
 **Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** <br>
 with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
 *Submitted* <br>
