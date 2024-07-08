@@ -41,7 +41,7 @@ with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
 
 **Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** <br>
 with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
-*Submitted* <br>
+*Revise and resubmit* <br>
 
 **Promoting COVID-19 Vaccination in India** <br>
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
