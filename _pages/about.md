@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am a research fellow at the [Centre for Development Economics and Sustainability](https://www.monash.edu/business/cdes) at Monash University and a J-PAL invited researcher. 
 I study topics in development economics that intersect with health economics, public economics, and political economy. 
 I received my PhD in Applied Economics from Cornell University.
-My cv [here](https://www.dropbox.com/s/ptlzoz5qzc6kvvw/CV.pdf?raw=1) 
+My cv [here](/docs/CV.pdf?raw=1) 
  {: style="text-align: justify"}
 
 E-mail: armand.sim@monash.edu
