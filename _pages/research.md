@@ -5,8 +5,11 @@ title: research
 nav: true
 nav_order: 2
 ---
+
 <!-- CSS styles -->
+
 <style>
+
 /* Common styles */
 .abstract-button {
     cursor: pointer;
@@ -25,32 +28,43 @@ nav_order: 2
     text-align: justify;
 }
 
-/* Styles for light mode */
-@media (prefers-color-scheme: light) {
-    .abstract-button, .abstract-content {
-        color: #000000 !important;
-    }
-    .abstract-button {
-        border-color: #000000 !important;
-    }
-    .abstract-content {
-        background-color: transparent;
-    }
+/* Force light mode styles */
+body .abstract-button,
+body .abstract-content,
+body .publication {
+    color: #000000 !important;
+}
+body .abstract-button {
+    border-color: #000000 !important;
+}
+body .abstract-content {
+    background-color: transparent !important;
 }
 
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
-    .publication, .abstract-content, .abstract-button {
+    body .publication,
+    body .abstract-content,
+    body .abstract-button {
         color: #ffffff !important;
     }
-    .abstract-button {
+    body .abstract-button {
         border-color: #ffffff !important;
     }
-    .abstract-content {
+    body .abstract-content {
         background-color: transparent !important;
     }
 }
+
+/* Additional force for light mode */
+html:not([data-theme='dark']) .abstract-button,
+html:not([data-theme='dark']) .abstract-content,
+html:not([data-theme='dark']) .publication {
+    color: #000000 !important;
+}
+    
 </style>
+
 <script>
 function toggleAbstract(id) {
     var content = document.getElementById(id);
