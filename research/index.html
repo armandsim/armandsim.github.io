@@ -143,15 +143,23 @@
     }
     .abstract-button {
         border-color: #000000 !important; /* Ensure button border is visible in light mode */
+        background-color: #f0f0f0 !important; /* Light background for better visibility */
+    }
+    .abstract-content {
+        background-color: #ffffff !important; /* White background for content in light mode */
     }
 }
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
     .publication, .abstract-content, .abstract-button {
-        color: #ffffff; /* White text for dark mode */
+        color: #ffffff !important; /* White text for dark mode */
     }
     .abstract-button {
-        border-color: #ffffff;
+        border-color: #ffffff !important;
+        background-color: #333333 !important; /* Dark background for better visibility */
+    }
+    .abstract-content {
+        background-color: #222222 !important; /* Dark background for content in dark mode */
     }
 }
 </style>
