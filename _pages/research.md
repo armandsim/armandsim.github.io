@@ -5,10 +5,8 @@ title: research
 nav: true
 nav_order: 2
 ---
-
 <!-- CSS styles -->
 <style>
-
 /* Common styles */
 .abstract-button {
     cursor: pointer;
@@ -22,12 +20,10 @@ nav_order: 2
     border-radius: 4px;
     transition: all 0.3s ease;
 }
-
 .abstract-content {
     margin-top: 10px;
     text-align: justify;
 }
-
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
     .publication, .abstract-content, .abstract-button {
@@ -37,7 +33,6 @@ nav_order: 2
         border-color: #000000 !important; /* Ensure button border is visible in light mode */
     }
 }
-
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
     .publication, .abstract-content, .abstract-button {
@@ -47,8 +42,7 @@ nav_order: 2
         border-color: #ffffff;
     }
 }
-<style>
-
+</style>
 <script>
 function toggleAbstract(id) {
     var content = document.getElementById(id);
