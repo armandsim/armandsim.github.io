@@ -32,10 +32,9 @@ nav_order: 2
 @media (prefers-color-scheme: light) {
     .publication, .abstract-content {
         color: #000000;
-        background-color: #ffffff;
     }
     .abstract-button {
-        color: #000000;
+        color: #000000; /* Black text for the button in light mode */
         border-color: #000000;
     }
     .abstract-button:hover {
@@ -47,7 +46,6 @@ nav_order: 2
 @media (prefers-color-scheme: dark) {
     .publication, .abstract-content {
         color: #ffffff;
-        background-color: #1a1a1a;
     }
     .abstract-button {
         color: #ffffff;
