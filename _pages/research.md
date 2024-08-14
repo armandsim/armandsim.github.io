@@ -8,6 +8,7 @@ nav_order: 2
 
 <!-- CSS styles -->
 <style>
+
 /* Common styles */
 .abstract-button {
     cursor: pointer;
@@ -23,39 +24,30 @@ nav_order: 2
 }
 
 .abstract-content {
-    display: none;
     margin-top: 10px;
     text-align: justify;
 }
 
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
-    .publication, .abstract-content {
-        color: #000000;
+    .publication, .abstract-content, .abstract-button {
+        color: #000000 !important; /* Force black color for all text in light mode */
     }
     .abstract-button {
-        color: #000000; /* Black text for the button in light mode */
-        border-color: #000000;
-    }
-    .abstract-button:hover {
-        background-color: rgba(0, 0, 0, 0.1);
+        border-color: #000000 !important; /* Ensure button border is visible in light mode */
     }
 }
 
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
-    .publication, .abstract-content {
-        color: #ffffff;
+    .publication, .abstract-content, .abstract-button {
+        color: #ffffff; /* White text for dark mode */
     }
     .abstract-button {
-        color: #ffffff;
         border-color: #ffffff;
     }
-    .abstract-button:hover {
-        background-color: rgba(255, 255, 255, 0.1);
-    }
 }
-</style>
+<style>
 
 <script>
 function toggleAbstract(id) {
