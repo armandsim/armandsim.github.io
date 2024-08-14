@@ -15,14 +15,6 @@ nav_order: 2
         color: #000000;
         background-color: #ffffff;
     }
-    .abstract-button {
-        background-color: #f8f8f8; /* Lighter background for buttons */
-        color: #000000;
-    }
-    .abstract-content {
-        background-color: #f9f9f9;
-        color: #000000;
-    }
 }
 
 /* Styles for dark mode */
@@ -31,15 +23,8 @@ nav_order: 2
         color: #ffffff;
         background-color: #1a1a1a;
     }
-    .abstract-button {
-        background-color: #444444; /* Lighter background for buttons in dark mode */
-        color: #ffffff;
-    }
-    .abstract-content {
-        background-color: #2a2a2a;
-        color: #ffffff;
-    }
 }
+
 
 /* Common styles */
 .abstract-button {
