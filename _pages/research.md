@@ -24,15 +24,16 @@ nav_order: 2
     margin-top: 10px;
     text-align: justify;
 }
+
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
-   .research-page.abstract-button, .abstract-content {
+    .abstract-button, .abstract-content {
         color: #000000 !important;
     }
-   .research-page.abstract-button {
+    .abstract-button {
         border-color: #000000 !important;
     }
-   .research-page.abstract-content {
+    .abstract-content {
         background-color: transparent;
     }
 }
@@ -40,13 +41,13 @@ nav_order: 2
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
     .publication, .abstract-content, .abstract-button {
-        color: #ffffff !important; /* White text for dark mode */
+        color: #ffffff !important;
     }
     .abstract-button {
-        border-color: #ffffff !important; /* Ensure button border is visible in dark mode */
+        border-color: #ffffff !important;
     }
     .abstract-content {
-        background-color: transparent !important; /* Remove background color */
+        background-color: transparent !important;
     }
 }
 </style>
