@@ -26,11 +26,11 @@ nav_order: 2
 }
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
-   .research-page.abstract-button,.research-page.abstract-content {
-        color: #000000;
+   .research-page.abstract-button, .abstract-content {
+        color: #000000 !important;
     }
    .research-page.abstract-button {
-        border-color: #000000;
+        border-color: #000000 !important;
     }
    .research-page.abstract-content {
         background-color: transparent;
