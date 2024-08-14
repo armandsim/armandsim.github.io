@@ -9,11 +9,38 @@ nav_order: 2
 <!-- CSS styles -->
 
 <style>
+/* Common styles */
+.abstract-button {
+    cursor: pointer;
+    padding: 5px 15px;
+    border: 1px solid #ffffff; /* White outline for dark mode */
+    background-color: transparent;
+    text-align: center;
+    outline: none;
+    font-size: 14px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.abstract-content {
+    display: none;
+    margin-top: 10px;
+    text-align: justify;
+}
+
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
     .publication {
         color: #000000;
         background-color: #ffffff;
+    }
+    .abstract-button {
+        color: #000000;
+        border-color: #000000; /* Black outline for light mode */
+    }
+    .abstract-button:hover {
+        background-color: rgba(0, 0, 0, 0.1); /* Slight dark background on hover for light mode */
     }
 }
 
@@ -23,28 +50,15 @@ nav_order: 2
         color: #ffffff;
         background-color: #1a1a1a;
     }
-}
-
-
-/* Common styles */
-.abstract-button {
-    cursor: pointer;
-    padding: 5px 15px;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 14px;
-    margin-bottom: 5px;
-}
-.abstract-content {
-    display: none;
-    padding: 10px 18px;
-    border-radius: 5px;
-    margin-top: 5px;
+    .abstract-button {
+        color: #ffffff;
+    }
+    .abstract-button:hover {
+        background-color: rgba(255, 255, 255, 0.1); /* Slight light background on hover for dark mode */
+    }
 }
 </style>
 
-<!-- JavaScript for toggling abstract -->
 <script>
 function toggleAbstract(id) {
     var content = document.getElementById(id);
@@ -54,6 +68,7 @@ function toggleAbstract(id) {
         content.style.display = "none";
     }
 }
+    
 </script>
 
 ## publication
