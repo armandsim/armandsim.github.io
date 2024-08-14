@@ -151,8 +151,8 @@ with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Pa
 **Promoting COVID-19 Vaccination in India** <br>
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Submitted* 
-<br>
 
+<br>
 
 ## works in progress
 
