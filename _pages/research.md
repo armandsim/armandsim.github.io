@@ -31,10 +31,9 @@ nav_order: 2
     }
     .abstract-button {
         border-color: #000000 !important; /* Ensure button border is visible in light mode */
-        background-color: #f0f0f0 !important; /* Light background for better visibility */
     }
     .abstract-content {
-        background-color: #ffffff !important; /* White background for content in light mode */
+        background-color: transparent !important; /* Remove background color */
     }
 }
 /* Styles for dark mode */
@@ -43,11 +42,10 @@ nav_order: 2
         color: #ffffff !important; /* White text for dark mode */
     }
     .abstract-button {
-        border-color: #ffffff !important;
-        background-color: #333333 !important; /* Dark background for better visibility */
+        border-color: #ffffff !important; /* Ensure button border is visible in dark mode */
     }
     .abstract-content {
-        background-color: #222222 !important; /* Dark background for content in dark mode */
+        background-color: transparent !important; /* Remove background color */
     }
 }
 </style>
@@ -61,6 +59,7 @@ function toggleAbstract(id) {
     }
 }
 </script>
+
 
 ## publication
 
