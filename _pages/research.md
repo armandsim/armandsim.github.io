@@ -156,6 +156,9 @@ with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 
 ## works in progress
 
+**Anticipatory and Local Economic Impacts of Mineral Export Ban in Indonesia** <br>
+with Hyuk Son <br>
+
 **The Tyranny of Distance** <br>
 with Arya Gaduh <br>
 
