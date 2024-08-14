@@ -7,13 +7,12 @@ nav_order: 2
 ---
 
 <!-- CSS styles -->
-
 <style>
 /* Common styles */
 .abstract-button {
     cursor: pointer;
     padding: 5px 15px;
-    border: 1px solid #ffffff; /* White outline for dark mode */
+    border: 1px solid;
     background-color: transparent;
     text-align: center;
     outline: none;
@@ -31,30 +30,31 @@ nav_order: 2
 
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
-    .publication {
+    .publication, .abstract-content {
         color: #000000;
         background-color: #ffffff;
     }
     .abstract-button {
         color: #000000;
-        border-color: #000000; /* Black outline for light mode */
+        border-color: #000000;
     }
     .abstract-button:hover {
-        background-color: rgba(0, 0, 0, 0.1); /* Slight dark background on hover for light mode */
+        background-color: rgba(0, 0, 0, 0.1);
     }
 }
 
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
-    .publication {
+    .publication, .abstract-content {
         color: #ffffff;
         background-color: #1a1a1a;
     }
     .abstract-button {
         color: #ffffff;
+        border-color: #ffffff;
     }
     .abstract-button:hover {
-        background-color: rgba(255, 255, 255, 0.1); /* Slight light background on hover for dark mode */
+        background-color: rgba(255, 255, 255, 0.1);
     }
 }
 </style>
@@ -68,7 +68,6 @@ function toggleAbstract(id) {
         content.style.display = "none";
     }
 }
-    
 </script>
 
 ## publication
