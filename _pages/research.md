@@ -9,12 +9,11 @@ nav_order: 2
 <!-- CSS styles -->
 
 <style>
-
 /* Common styles */
 .abstract-button {
     cursor: pointer;
     padding: 5px 15px;
-    border: 1px solid #000000 !important; /* Black border added */
+    border: 1px solid #000000 !important; /* Black border added and forced */
     background-color: transparent;
     text-align: center;
     outline: none;
@@ -42,6 +41,16 @@ body .abstract-content {
     background-color: transparent !important;
 }
 
+/* Additional force for light mode */
+html:not([data-theme='dark']) .abstract-button,
+html:not([data-theme='dark']) .abstract-content,
+html:not([data-theme='dark']) .publication {
+    color: #000000 !important;
+}
+html:not([data-theme='dark']) .abstract-button {
+    border-color: #000000 !important;
+}
+
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
     body .publication,
@@ -57,11 +66,9 @@ body .abstract-content {
     }
 }
 
-/* Additional force for light mode */
-html:not([data-theme='dark']) .abstract-button,
-html:not([data-theme='dark']) .abstract-content,
-html:not([data-theme='dark']) .publication {
-    color: #000000 !important;
+/* Highest specificity rule to ensure black border in light mode */
+html:not([data-theme='dark']) body .abstract-button {
+    border: 1px solid #000000 !important;
 }
     
 </style>
