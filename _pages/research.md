@@ -14,7 +14,7 @@ nav_order: 2
 .abstract-button {
     cursor: pointer;
     padding: 5px 15px;
-    border: 1px solid;
+    border: 1px solid #000000 !important; /* Black border added */
     background-color: transparent;
     text-align: center;
     outline: none;
@@ -26,6 +26,7 @@ nav_order: 2
 .abstract-content {
     margin-top: 10px;
     text-align: justify;
+    display: none; /* Hide abstract content by default */
 }
 
 /* Force light mode styles */
@@ -66,6 +67,15 @@ html:not([data-theme='dark']) .publication {
 </style>
 
 <script>
+// Function to hide all abstracts on page load
+function hideAllAbstracts() {
+    var abstracts = document.querySelectorAll('.abstract-content');
+    abstracts.forEach(function(abstract) {
+        abstract.style.display = 'none';
+    });
+}
+
+// Function to toggle abstract visibility
 function toggleAbstract(id) {
     var content = document.getElementById(id);
     if (content.style.display === "none" || content.style.display === "") {
@@ -74,6 +84,9 @@ function toggleAbstract(id) {
         content.style.display = "none";
     }
 }
+
+// Call hideAllAbstracts when the page loads
+document.addEventListener('DOMContentLoaded', hideAllAbstracts);
 </script>
 
 
