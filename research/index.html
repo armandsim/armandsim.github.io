@@ -10,9 +10,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>a post with table of contents on a sidebar | Armand  Sim</title>
+    <title>research | Armand  Sim</title>
     <meta name="author" content="Armand  Sim">
-    <meta name="description" content="an example of a blog post with table of contents on a sidebar">
+    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -32,14 +33,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
 
     
-    <!-- Sidebar Table of Contents -->
-    <link href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" rel="stylesheet">
-    
 
     <!-- Styles -->
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://armandsim.github.io/blog/2023/sidebar-table-of-contents/">
+    <link rel="canonical" href="https://armandsim.github.io/research/">
 
     <!-- Dark Mode -->
     
@@ -79,8 +77,8 @@
               
 
               <!-- Other pages -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/research/">research</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/research/">research<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/teaching/">teaching</a>
@@ -110,102 +108,185 @@
     <!-- Content -->
     <div class="container mt-5">
       
-        
-        <div class="row">
-          <!-- sidebar, which will move to the top on a small screen -->
-          <div class="col-sm-3">
-            <nav id="toc-sidebar" class="sticky-top"></nav>
-          </div>
-          <!-- main content area -->
-          <div class="col-sm-9">
-            <!-- _layouts/post.html -->
+        <!-- page.html -->
+        <div class="post">
 
-<div class="post">
+          <header class="post-header">
+            <h1 class="post-title">research</h1>
+            <p class="post-description"></p>
+          </header>
 
-  <header class="post-header">
-    <h1 class="post-title">a post with table of contents on a sidebar</h1>
-    <p class="post-meta">April 25, 2023</p>
-    <p class="post-tags">
-      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
-        ·  
-        <a href="/blog/category/sample-posts">
-          <i class="fas fa-tag fa-sm"></i> sample-posts</a>  
-          <a href="/blog/category/toc">
-          <i class="fas fa-tag fa-sm"></i> toc</a>  
-          <a href="/blog/category/sidebar">
-          <i class="fas fa-tag fa-sm"></i> sidebar</a>  
-          
+          <article>
+            <!-- CSS styles -->
 
-    </p>
-  </header>
+<style>
+/* Common styles */
+.abstract-button {
+    cursor: pointer;
+    padding: 5px 15px;
+    border: 1px solid #000000 !important; /* Black border added and forced */
+    background-color: transparent;
+    text-align: center;
+    outline: none;
+    font-size: 14px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+.abstract-content {
+    margin-top: 10px;
+    text-align: justify;
+    display: none; /* Hide abstract content by default */
+}
 
-  <article class="post-content">
+/* Force light mode styles */
+body .abstract-button,
+body .abstract-content,
+body .publication {
+    color: #000000 !important;
+}
+body .abstract-button {
+    border-color: #000000 !important;
+}
+body .abstract-content {
+    background-color: transparent !important;
+}
+
+/* Additional force for light mode */
+html:not([data-theme='dark']) .abstract-button,
+html:not([data-theme='dark']) .abstract-content,
+html:not([data-theme='dark']) .publication {
+    color: #000000 !important;
+}
+html:not([data-theme='dark']) .abstract-button {
+    border-color: #000000 !important;
+}
+
+/* Styles for dark mode */
+@media (prefers-color-scheme: dark) {
+    body .publication,
+    body .abstract-content,
+    body .abstract-button {
+        color: #ffffff !important;
+    }
+    body .abstract-button {
+        border-color: #ffffff !important;
+    }
+    body .abstract-content {
+        background-color: transparent !important;
+    }
+}
+
+/* Highest specificity rule to ensure black border in light mode */
+html:not([data-theme='dark']) body .abstract-button {
+    border: 1px solid #000000 !important;
+}
     
-    <div id="markdown-content">
-      <p>This post shows how to add a table of contents as a sidebar.</p>
+</style>
 
-<h2 id="adding-a-table-of-contents">Adding a Table of Contents</h2>
+<script>
+// Function to hide all abstracts on page load
+function hideAllAbstracts() {
+    var abstracts = document.querySelectorAll('.abstract-content');
+    abstracts.forEach(function(abstract) {
+        abstract.style.display = 'none';
+    });
+}
 
-<p>To add a table of contents to a post as a sidebar, simply add</p>
-<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">toc</span><span class="pi">:</span>
-  <span class="na">sidebar</span><span class="pi">:</span> <span class="s">left</span>
-</code></pre></div></div>
-<p>to the front matter of the post. The table of contents will be automatically generated from the headings in the post. If you wish to display the sidebar to the right, simply change <code class="language-plaintext highlighter-rouge">left</code> to <code class="language-plaintext highlighter-rouge">right</code>.</p>
+// Function to toggle abstract visibility
+function toggleAbstract(id) {
+    var content = document.getElementById(id);
+    if (content.style.display === "none" || content.style.display === "") {
+        content.style.display = "block";
+    } else {
+        content.style.display = "none";
+    }
+}
 
-<h3 id="example-of-sub-heading-1">Example of Sub-Heading 1</h3>
+// Call hideAllAbstracts when the page loads
+document.addEventListener('DOMContentLoaded', hideAllAbstracts);
+</script>
 
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" rel="external nofollow noopener" target="_blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" rel="external nofollow noopener" target="_blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
+<h2 id="publication">publication</h2>
 
-<h3 id="example-of-another-sub-heading-1">Example of another Sub-Heading 1</h3>
+<p><strong><a href="/docs/AKS_Ghana_Published_Version_HE.pdf">Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana</a></strong> <br>
+with Patrick Asuming and Hyuncheol Bryant Kim <br>
+<em>Health Economics, 2024, 33(5): 992–1032.</em> <br></p>
 
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" rel="external nofollow noopener" target="_blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" rel="external nofollow noopener" target="_blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
-
-<h2 data-toc-text="Customizing" id="customizing-your-table-of-contents">Customizing Your Table of Contents</h2>
-
-<p>If you want to learn more about how to customize the table of contents of your sidebar, you can check the <a href="https://afeld.github.io/bootstrap-toc/" rel="external nofollow noopener" target="_blank">bootstrap-toc</a> documentation. Notice that you can even customize the text of the heading that will be displayed on the sidebar.</p>
-
-<h3 id="example-of-sub-heading-2">Example of Sub-Heading 2</h3>
-
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" rel="external nofollow noopener" target="_blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" rel="external nofollow noopener" target="_blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
-
-<h3 id="example-of-another-sub-heading-2">Example of another Sub-Heading 2</h3>
-
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" rel="external nofollow noopener" target="_blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" rel="external nofollow noopener" target="_blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
-
-    </div>
-  </article><div id="giscus_thread" style="max-width: 800px; margin: 0 auto;">
-  <script>
-    let giscusTheme = localStorage.getItem("theme");
-    let giscusAttributes = {
-        "src": "https://giscus.app/client.js",
-        "data-repo": "alshedivat/al-folio",
-        "data-repo-id": "MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==",
-        "data-category": "Comments",
-        "data-category-id": "DIC_kwDOA5PmLc4CTBt6",
-        "data-mapping": "title",
-        "data-strict": "1",
-        "data-reactions-enabled": "1",
-        "data-emit-metadata": "0",
-        "data-input-position": "bottom",
-        "data-theme": giscusTheme,
-        "data-lang": "en",
-        "crossorigin": "anonymous",
-        "async": "",
-    };
-
-
-    let giscusScript = document.createElement("script");
-    Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
-    document.getElementById("giscus_thread").appendChild(giscusScript);
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://giscus.app/?ref_noscript" rel="external nofollow noopener" target="_blank">comments powered by giscus.</a>
-</noscript>
-</div>
+<p><button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button></p>
+<div id="abstract1" class="abstract abstract-content" style="text-align: justify">
+We study the effects of a health insurance subsidy in Ghana, where mandates are not enforceable. We randomly provide different levels of subsidy (1/3, 2/3, and full) and evaluate the impact at seven months and three years after the intervention. We find that a one-time subsidy increased insurance enrollment for all groups in both the short and long runs, but health care utilization in the long run increased only for the partial subsidy group. We find supportive evidence that ex-post behavioral responses rather than ex-ante selective enrollment explain the long-run health care utilization results.
 </div>
 
-          </div>
+<p><strong><a href="/docs/Vaccine_EER.pdf">Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia</a></strong> <br>
+with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
+<em>European Economic Review, 2024, 163, 104683</em> <br></p>
+
+<p><button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button></p>
+<div id="abstract2" class="abstract abstract-content" style="text-align: justify">
+In settings where resistance and rampant misinformation against vaccines exist, the prospect of containing infectious diseases remains a challenge. Can delivery of information regarding the benefits of vaccination through personal home visits by local ambassadors increase vaccine uptake? We conduct a door-to-door randomized information campaign targeted towards COVID-19 unvaccinated individuals in rural Indonesia. We recruited ambassadors from local villages tasked to deliver information about COVID-19 vaccines and promote vaccination through one-on-one meetings, using an interpersonal behavioral change communication approach. To investigate which type of ambassador—health cadres, influential individuals, and laypersons—is the most effective, we randomly vary the type of ambassador that delivers the information at the village level. We find that the overall vaccination take-up is quite moderate and that there are no differences in vaccination outcomes across the treatment groups. These results highlight the challenge of boosting vaccine uptake in late stages of a pandemic.
+</div>
+
+<p><strong><a href="https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub" rel="external nofollow noopener" target="_blank">The Consequences of Child Market Work on the Growth of Human Capital</a></strong> <br> 
+with Asep Suryahadi and Daniel Suryadarma <br>
+<em>World Development, 2017, 91: 144–155.</em> <br></p>
+
+<p><button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button></p>
+<div id="abstract3" class="abstract abstract-content" style="text-align: justify">
+The paper measures the effect of child market work on the long-term growth of human capital, focusing on the output of the human capital production: mathematics skills, cognitive skills, pulmonary function, and educational attainment. Our full sample is drawn from a rich longitudinal dataset Indonesia Family Life Survey (IFLS). We address endogeneity of child market work using provincial legislated minimum wage as the instrument. Our instrumental variable estimation shows that child labor negatively affects mathematics skills and pulmonary function, but not cognitive skills and educational attainment. We find heterogeneities in type of work. Those who work outside of family business have lower educational attainment than those working for family business.
+</div>
+
+<p><br></p>
+
+<h2 id="working-papers">working papers</h2>
+
+<p><strong><a href="/docs/jakarta_draft.pdf">Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in Indonesia</a></strong> <br>
+with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br></p>
+
+<p><button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button></p>
+<div id="abstract4" class="abstract abstract-content" style="text-align: justify">
+Promoting awareness and encouraging pro-sustainability behaviors to mitigate climate and environmental issues can be challenging due to their polarizing nature. We conduct a large-scale online experiment in Jakarta, the world's fastest sinking city, to examine the impact of messenger identity and narrative style on awareness and behavior regarding land subsidence, a human-induced climate change phenomenon. We vary the messenger identity (an actor portraying either a religious leader or a scientist) and the narrative style of the message (religious vs. scientific). Our results show that exposure to an environmental video message, as opposed to a placebo, increases beliefs, trust in institutions, and pro-sustainability behaviors. The largest impacts arise when a scientist delivers a message embedded with a religious narrative, increasing participants' perceptions of the messenger as persuasive and trustworthy. The effects are more pronounced among individuals with low prior knowledge, high trust in authorities, and those less reliant on groundwater. However, we find limited evidence of heterogeneous treatment effects on actions. Our findings highlight the importance of carefully considering both the message and the messenger in communication strategies in a diverse population.
+</div>
+
+<p><strong>Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia</strong> <br></p>
+
+<p><strong>Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh</strong> <br>
+with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
+<em>Revise and resubmit, Nature: Communications Medicine</em> <br></p>
+
+<p><strong>Promoting COVID-19 Vaccination in India</strong> <br>
+with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
+<em>Submitted</em></p>
+
+<p><br></p>
+
+<h2 id="works-in-progress">works in progress</h2>
+
+<p><strong>Anticipatory and Local Economic Impacts of Mineral Export Ban in Indonesia</strong> <br>
+with Hyuk Son <br></p>
+
+<p><strong>The Tyranny of Distance</strong> <br>
+with Arya Gaduh <br></p>
+
+<p><strong>Economic Crisis and Nation Building</strong> <br>
+with Arya Gaduh <br></p>
+
+<script>
+function toggleAbstract(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+}
+</script>
+
+
+          </article>
+
         </div>
-        
+
       
     </div>
 
@@ -233,9 +314,6 @@
   <!-- Medium Zoom JS -->
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
   <script defer src="/assets/js/zoom.js"></script>
-  <!-- Sidebar Table of Contents -->
-  <script defer src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
-
 
   <!-- Bootstrap Table -->
   <script defer src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js"></script>
