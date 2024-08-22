@@ -124,7 +124,7 @@
 .abstract-button {
     cursor: pointer;
     padding: 5px 15px;
-    border: 1px solid #000000 !important; /* Black border added and forced */
+    border: 1px solid;
     background-color: transparent;
     text-align: center;
     outline: none;
@@ -136,50 +136,64 @@
 .abstract-content {
     margin-top: 10px;
     text-align: justify;
-    display: none; /* Hide abstract content by default */
+    display: none;
+    padding: 10px;
+    border-radius: 4px;
 }
 
-/* Force light mode styles */
-body .abstract-button,
-body .abstract-content,
-body .publication {
-    color: #000000 !important;
-}
-body .abstract-button {
-    border-color: #000000 !important;
-}
-body .abstract-content {
-    background-color: transparent !important;
+/* Light mode styles */
+@media (prefers-color-scheme: light) {
+    .abstract-button,
+    .abstract-content,
+    .publication {
+        color: #000000;
+    }
+    .abstract-button {
+        border-color: #000000;
+    }
+    .abstract-content {
+        background-color: #f0f0f0;
+    }
 }
 
-/* Additional force for light mode */
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+    .abstract-button,
+    .abstract-content,
+    .publication {
+        color: #ffffff;
+    }
+    .abstract-button {
+        border-color: #ffffff;
+    }
+    .abstract-content {
+        background-color: #333333;
+    }
+}
+
+/* Ensure styles are applied regardless of HTML theme attribute */
+html[data-theme='dark'] .abstract-button,
+html[data-theme='dark'] .abstract-content,
+html[data-theme='dark'] .publication {
+    color: #ffffff;
+}
+html[data-theme='dark'] .abstract-button {
+    border-color: #ffffff;
+}
+html[data-theme='dark'] .abstract-content {
+    background-color: #333333;
+}
+
 html:not([data-theme='dark']) .abstract-button,
 html:not([data-theme='dark']) .abstract-content,
 html:not([data-theme='dark']) .publication {
-    color: #000000 !important;
+    color: #000000;
 }
 html:not([data-theme='dark']) .abstract-button {
-    border-color: #000000 !important;
+    border-color: #000000;
 }
-
-/* Styles for dark mode */
-@media (prefers-color-scheme: dark) {
-    body .publication,
-    body .abstract-content,
-    body .abstract-button {
-        color: #ffffff !important;
-    }
-    body .abstract-button {
-        border-color: #ffffff !important;
-    }
-    body .abstract-content {
-        background-color: transparent !important;
-    }
-}
-
-/* Highest specificity rule to ensure black border in light mode */
-html:not([data-theme='dark']) body .abstract-button {
-    border: 1px solid #000000 !important;
+html:not([data-theme='dark']) .abstract-content {
+    background-color: #f0f0f0;
 }
     
 </style>
