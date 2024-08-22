@@ -28,6 +28,7 @@ nav_order: 2
     display: none;
     padding: 10px;
     border-radius: 4px;
+    background-color: transparent !important; /* Force transparent background */
 }
 
 /* Light mode styles */
@@ -39,9 +40,6 @@ nav_order: 2
     }
     .abstract-button {
         border-color: #000000;
-    }
-    .abstract-content {
-        background-color: #f0f0f0;
     }
 }
 
@@ -55,9 +53,6 @@ nav_order: 2
     .abstract-button {
         border-color: #ffffff;
     }
-    .abstract-content {
-        background-color: #333333;
-    }
 }
 
 /* Ensure styles are applied regardless of HTML theme attribute */
@@ -69,9 +64,6 @@ html[data-theme='dark'] .publication {
 html[data-theme='dark'] .abstract-button {
     border-color: #ffffff;
 }
-html[data-theme='dark'] .abstract-content {
-    background-color: #333333;
-}
 
 html:not([data-theme='dark']) .abstract-button,
 html:not([data-theme='dark']) .abstract-content,
@@ -80,9 +72,6 @@ html:not([data-theme='dark']) .publication {
 }
 html:not([data-theme='dark']) .abstract-button {
     border-color: #000000;
-}
-html:not([data-theme='dark']) .abstract-content {
-    background-color: #f0f0f0;
 }
     
 </style>
