@@ -145,15 +145,15 @@ Promoting awareness and encouraging pro-sustainability behaviors to mitigate cli
 </div>
  {: style="text-align: justify"}
  
- **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
- 
+**Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
+
+**Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** <br>
+with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
+*Revise and resubmit, Journal of Health Economics* <br>
+
 **Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** <br>
 with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
 *Revise and resubmit, Nature: Communications Medicine* <br>
-
-**Promoting COVID-19 Vaccination in India** <br>
-with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
-*Revise and resubmit, Journal of Health Economics* <br>
 
 <br>
 
