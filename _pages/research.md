@@ -138,13 +138,6 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 **[Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in Indonesia](/docs/jakarta_draft.pdf)** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
-<!--
-<button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
-<div id="abstract4" class="abstract abstract-content">
-Promoting awareness and encouraging pro-sustainability behaviors to mitigate climate and environmental issues can be challenging due to their polarizing nature. We conduct a large-scale online experiment in Jakarta, the world's fastest sinking city, to examine the impact of messenger identity and narrative style on awareness and behavior regarding land subsidence, a human-induced climate change phenomenon. We vary the messenger identity (an actor portraying either a religious leader or a scientist) and the narrative style of the message (religious vs. scientific). Our results show that exposure to an environmental video message, as opposed to a placebo, increases beliefs, trust in institutions, and pro-sustainability behaviors. The largest impacts arise when a scientist delivers a message embedded with a religious narrative, increasing participants' perceptions of the messenger as persuasive and trustworthy. The effects are more pronounced among individuals with low prior knowledge, high trust in authorities, and those less reliant on groundwater. However, we find limited evidence of heterogeneous treatment effects on actions. Our findings highlight the importance of carefully considering both the message and the messenger in communication strategies in a diverse population.
-</div>
- {: style="text-align: justify"}
--->
  
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
 
