@@ -136,7 +136,7 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 ## working papers 
 
-**[Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in Indonesia](/docs/jakarta_draft.pdf)** <br>
+**Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in Indonesia** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
  
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
