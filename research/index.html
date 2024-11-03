@@ -117,98 +117,42 @@
           </header>
 
           <article>
-            <!-- CSS styles -->
-
-<style>
-/* Common styles */
-.abstract-button {
-    cursor: pointer;
-    padding: 5px 15px;
-    border: 1px solid;
-    background-color: transparent;
-    text-align: center;
-    outline: none;
-    font-size: 14px;
-    margin-bottom: 5px;
-    border-radius: 4px;
-    transition: all 0.3s ease;
-}
+            <style>
 .abstract-content {
     margin-top: 10px;
     text-align: justify;
-    display: none;
     padding: 10px;
     border-radius: 4px;
-    background-color: transparent !important; /* Force transparent background */
+    background-color: transparent !important;
 }
 
 /* Light mode styles */
 @media (prefers-color-scheme: light) {
-    .abstract-button,
     .abstract-content,
     .publication {
         color: #000000;
-    }
-    .abstract-button {
-        border-color: #000000;
     }
 }
 
 /* Dark mode styles */
 @media (prefers-color-scheme: dark) {
-    .abstract-button,
     .abstract-content,
     .publication {
         color: #ffffff;
     }
-    .abstract-button {
-        border-color: #ffffff;
-    }
 }
 
 /* Ensure styles are applied regardless of HTML theme attribute */
-html[data-theme='dark'] .abstract-button,
 html[data-theme='dark'] .abstract-content,
 html[data-theme='dark'] .publication {
     color: #ffffff;
 }
-html[data-theme='dark'] .abstract-button {
-    border-color: #ffffff;
-}
 
-html:not([data-theme='dark']) .abstract-button,
 html:not([data-theme='dark']) .abstract-content,
 html:not([data-theme='dark']) .publication {
     color: #000000;
 }
-html:not([data-theme='dark']) .abstract-button {
-    border-color: #000000;
-}
-    
 </style>
-
-<script>
-// Function to hide all abstracts on page load
-function hideAllAbstracts() {
-    var abstracts = document.querySelectorAll('.abstract-content');
-    abstracts.forEach(function(abstract) {
-        abstract.style.display = 'none';
-    });
-}
-
-// Function to toggle abstract visibility
-function toggleAbstract(id) {
-    var content = document.getElementById(id);
-    if (content.style.display === "none" || content.style.display === "") {
-        content.style.display = "block";
-    } else {
-        content.style.display = "none";
-    }
-}
-
-// Call hideAllAbstracts when the page loads
-document.addEventListener('DOMContentLoaded', hideAllAbstracts);
-</script>
 
 <h2 id="publication">publication</h2>
 
@@ -216,8 +160,7 @@ document.addEventListener('DOMContentLoaded', hideAllAbstracts);
 with Patrick Asuming and Hyuncheol Bryant Kim <br>
 <em>Health Economics, 2024, 33(5): 992–1032.</em> <br></p>
 
-<p><button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button></p>
-<div id="abstract1" class="abstract abstract-content" style="text-align: justify">
+<div class="abstract-content" style="text-align: justify">
 We study the effects of a health insurance subsidy in Ghana, where mandates are not enforceable. We randomly provide different levels of subsidy (1/3, 2/3, and full) and evaluate the impact at seven months and three years after the intervention. We find that a one-time subsidy increased insurance enrollment for all groups in both the short and long runs, but health care utilization in the long run increased only for the partial subsidy group. We find supportive evidence that ex-post behavioral responses rather than ex-ante selective enrollment explain the long-run health care utilization results.
 </div>
 
@@ -225,17 +168,15 @@ We study the effects of a health insurance subsidy in Ghana, where mandates are 
 with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
 <em>European Economic Review, 2024, 163, 104683</em> <br></p>
 
-<p><button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button></p>
-<div id="abstract2" class="abstract abstract-content" style="text-align: justify">
+<div class="abstract-content" style="text-align: justify">
 In settings where resistance and rampant misinformation against vaccines exist, the prospect of containing infectious diseases remains a challenge. Can delivery of information regarding the benefits of vaccination through personal home visits by local ambassadors increase vaccine uptake? We conduct a door-to-door randomized information campaign targeted towards COVID-19 unvaccinated individuals in rural Indonesia. We recruited ambassadors from local villages tasked to deliver information about COVID-19 vaccines and promote vaccination through one-on-one meetings, using an interpersonal behavioral change communication approach. To investigate which type of ambassador—health cadres, influential individuals, and laypersons—is the most effective, we randomly vary the type of ambassador that delivers the information at the village level. We find that the overall vaccination take-up is quite moderate and that there are no differences in vaccination outcomes across the treatment groups. These results highlight the challenge of boosting vaccine uptake in late stages of a pandemic.
 </div>
 
-<p><strong><a href="https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub" rel="external nofollow noopener" target="_blank">The Consequences of Child Market Work on the Growth of Human Capital</a></strong> <br> 
+<p><strong><a href="https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub" rel="external nofollow noopener" target="_blank">The Consequences of Child Market Work on the Growth of Human Capital</a></strong> <br>
 with Asep Suryahadi and Daniel Suryadarma <br>
 <em>World Development, 2017, 91: 144–155.</em> <br></p>
 
-<p><button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button></p>
-<div id="abstract3" class="abstract abstract-content" style="text-align: justify">
+<div class="abstract-content" style="text-align: justify">
 The paper measures the effect of child market work on the long-term growth of human capital, focusing on the output of the human capital production: mathematics skills, cognitive skills, pulmonary function, and educational attainment. Our full sample is drawn from a rich longitudinal dataset Indonesia Family Life Survey (IFLS). We address endogeneity of child market work using provincial legislated minimum wage as the instrument. Our instrumental variable estimation shows that child labor negatively affects mathematics skills and pulmonary function, but not cognitive skills and educational attainment. We find heterogeneities in type of work. Those who work outside of family business have lower educational attainment than those working for family business.
 </div>
 
@@ -268,18 +209,6 @@ with Arya Gaduh <br></p>
 
 <p><strong>Economic Crisis and Nation Building</strong> <br>
 with Arya Gaduh <br></p>
-
-<script>
-function toggleAbstract(id) {
-    var x = document.getElementById(id);
-    if (x.style.display === "block") {
-        x.style.display = "none";
-    } else {
-        x.style.display = "block";
-    }
-}
-</script>
-
 
           </article>
 
