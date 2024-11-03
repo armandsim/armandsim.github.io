@@ -95,6 +95,7 @@ Shifting beliefs and encouraging pro-sustainability behaviors to mitigate climat
 Encouraging COVID-19 vaccination among hesitant individuals is vital for achieving herd immunity and curbing the spread of the virus. We conducted a large-scale randomized experiment in India to evaluate five interventions targeting individuals that remained unvaccinated after the initial mass vaccination campaign: (i) information only; (ii) information plus a gift worth $5 upon vaccination; (iii) information plus a 5% chance to win a gift worth $100 upon vaccination; (iv) information combined with improved vaccine accessibility; (v) information disseminated through community leaders. While all interventions successfully increased vaccination rates, information combined with non-cash incentives and improved accessibility have higher impacts on first-dose uptake compared to the information campaign alone. Information delivery through local community leaders was the most effective intervention in encouraging completion of the full vaccination schedule. 
 </div>
 {: style="text-align: justify"}
+<br>
 
 **Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
 *Revise and resubmit, Nature: Communications Medicine* <br>
