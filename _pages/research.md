@@ -78,8 +78,13 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 **Sink or Swim: Testing the Role of Science vs Religion in Raising Environmental Awareness in Indonesia** <br>
 with Sarah Gultom, Umair Khalil, Wang Lee, Alyas Widita <br>
- 
-**Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** <br>
+
+<div class="abstract-content">
+Shifting beliefs and encouraging pro-sustainability behaviors to mitigate climate and environmental issues can be challenging due to their polarizing nature. This challenge is particularly concerning in Jakarta, the world's fastest sinking city, where many residents remain uninformed about land subsidence—its causes, severity, and implications. Through a large-scale online experiment, we examine how information source identity (represented by an actor portraying a religious leader or scientist), narrative style of an environmental video message (religious vs. scientific), and their interaction influence beliefs and attitudes regarding this environmental threat. Our results show that exposure to any version of the environmental message significantly shifts participants' beliefs, enhances both self-efficacy and institutional trust, and increases willingness to adopt pro-sustainability behaviors, suggesting promising pathways for public engagement. The largest impacts on beliefs emerge when a scientist—perceived as more persuasive and trustworthy than an Imam—delivers the message, regardless of narrative style. A scientist delivering religious narrative is particularly effective at encouraging participants to spread awareness about the root cause of subsidence, while an Imam shows more consistent impact at building trust across stakeholders. The effects on beliefs are more pronounced among individuals with low prior knowledge, high trust in institutions, and less reliance on groundwater for drinking. However, even among those least informed, we find limited evidence of heterogeneous treatment effects on actions. Our findings highlight how the interplay between messenger perceived credibility and narrative framing shapes public understanding and action on environmental challenges.
+</div>
+{: style="text-align: justify"}
+
+**Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** (under revision) <br>
 
 **Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** <br>
 with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
