@@ -45,6 +45,9 @@ html:not([data-theme='dark']) .publication {
 
 ## publication
 
+**Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
+*Conditionally accepted, Nature: Communications Medicine* <br>
+
 **[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](/docs/AKS_Ghana_Published_Version_HE.pdf)** with Patrick Asuming and Hyuncheol Bryant Kim <br>
 *Health Economics, 2024, 33(5): 992–1032.* <br>
 
@@ -96,9 +99,6 @@ Encouraging COVID-19 vaccination among hesitant individuals is vital for achievi
 </div>
 {: style="text-align: justify"}
 <br>
-
-**Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
-*Revise and resubmit, Nature: Communications Medicine* <br>
 
 ## works in progress
 
