@@ -90,7 +90,7 @@ Shifting beliefs and encouraging pro-sustainability behaviors to mitigate climat
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** (under revision) 
 <br>
 
-**[Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries](/docs/Vaccine_Dec03_2024_v2.pdf.pdf)** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
+**[Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries](/docs/Vaccine_JHE_Dec_2024.pdf)** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Revise and resubmit, Journal of Health Economics* 
 <br>
 
