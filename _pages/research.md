@@ -13,6 +13,18 @@ nav_order: 2
     padding: 10px;
     border-radius: 4px;
     background-color: transparent !important;
+    display: none;
+}
+
+.abstract-toggle {
+    background: none;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 10px;
 }
 
 /* Light mode styles */
@@ -20,6 +32,13 @@ nav_order: 2
     .abstract-content,
     .publication {
         color: #000000;
+    }
+    .abstract-toggle {
+        border-color: #666;
+        color: #666;
+    }
+    .abstract-toggle:hover {
+        background-color: #f0f0f0;
     }
 }
 
@@ -29,6 +48,13 @@ nav_order: 2
     .publication {
         color: #ffffff;
     }
+    .abstract-toggle {
+        border-color: #999;
+        color: #999;
+    }
+    .abstract-toggle:hover {
+        background-color: #333;
+    }
 }
 
 /* Ensure styles are applied regardless of HTML theme attribute */
@@ -37,11 +63,38 @@ html[data-theme='dark'] .publication {
     color: #ffffff;
 }
 
+html[data-theme='dark'] .abstract-toggle {
+    border-color: #999;
+    color: #999;
+}
+
+html[data-theme='dark'] .abstract-toggle:hover {
+    background-color: #333;
+}
+
 html:not([data-theme='dark']) .abstract-content,
 html:not([data-theme='dark']) .publication {
     color: #000000;
 }
+
+html:not([data-theme='dark']) .abstract-toggle {
+    border-color: #666;
+    color: #666;
+}
+
+html:not([data-theme='dark']) .abstract-toggle:hover {
+    background-color: #f0f0f0;
+}
 </style>
+
+<script>
+function toggleAbstract(button) {
+    const abstract = button.nextElementSibling;
+    const isVisible = abstract.style.display === 'block';
+    abstract.style.display = isVisible ? 'none' : 'block';
+    button.textContent = isVisible ? 'Show abstract' : 'Hide abstract';
+}
+</script>
 
 ## publication
 
@@ -49,7 +102,7 @@ html:not([data-theme='dark']) .publication {
 *Conditionally accepted, Nature: Communications Medicine* <br>
 
 **[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](/docs/AKS_Ghana_Published_Version_HE.pdf)** with Patrick Asuming and Hyuncheol Bryant Kim <br>
-*Health Economics, 2024, 33(5): 992–1032.* <br>
+*Health Economics, 2024, 33(5): 992–1032.* <button class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract</button>
 
 <div class="abstract-content">
 We study the effects of a health insurance subsidy in Ghana, where mandates are not enforceable. We randomly provide different levels of subsidy (1/3, 2/3, and full) and evaluate the impact at seven months and three years after the intervention. We find that a one-time subsidy increased insurance enrollment for all groups in both the short and long runs, but health care utilization in the long run increased only for the partial subsidy group. We find supportive evidence that ex-post behavioral responses rather than ex-ante selective enrollment explain the long-run health care utilization results.
@@ -58,7 +111,7 @@ We study the effects of a health insurance subsidy in Ghana, where mandates are 
 <br>
 
 **[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](/docs/Vaccine_EER.pdf)** with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
-*European Economic Review, 2024, 163, 104683* <br>
+*European Economic Review, 2024, 163, 104683* <button class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract</button>
 
 <div class="abstract-content">
 In settings where resistance and rampant misinformation against vaccines exist, the prospect of containing infectious diseases remains a challenge. Can delivery of information regarding the benefits of vaccination through personal home visits by local ambassadors increase vaccine uptake? We conduct a door-to-door randomized information campaign targeted towards COVID-19 unvaccinated individuals in rural Indonesia. We recruited ambassadors from local villages tasked to deliver information about COVID-19 vaccines and promote vaccination through one-on-one meetings, using an interpersonal behavioral change communication approach. To investigate which type of ambassador—health cadres, influential individuals, and laypersons—is the most effective, we randomly vary the type of ambassador that delivers the information at the village level. We find that the overall vaccination take-up is quite moderate and that there are no differences in vaccination outcomes across the treatment groups. These results highlight the challenge of boosting vaccine uptake in late stages of a pandemic.
@@ -67,7 +120,7 @@ In settings where resistance and rampant misinformation against vaccines exist, 
 <br>
 
 **[The Consequences of Child Market Work on the Growth of Human Capital](https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub)** with Asep Suryahadi and Daniel Suryadarma <br>
-*World Development, 2017, 91: 144–155.* <br>
+*World Development, 2017, 91: 144–155.* <button class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract</button>
 
 <div class="abstract-content">
 The paper measures the effect of child market work on the long-term growth of human capital, focusing on the output of the human capital production: mathematics skills, cognitive skills, pulmonary function, and educational attainment. Our full sample is drawn from a rich longitudinal dataset Indonesia Family Life Survey (IFLS). We address endogeneity of child market work using provincial legislated minimum wage as the instrument. Our instrumental variable estimation shows that child labor negatively affects mathematics skills and pulmonary function, but not cognitive skills and educational attainment. We find heterogeneities in type of work. Those who work outside of family business have lower educational attainment than those working for family business.
@@ -92,8 +145,7 @@ We conduct a large-scale online experiment to understand how to effectively comm
 <br>
 
 **[Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries](/docs/Vaccine_JHE_Dec_2024.pdf)** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
-*Revised and resubmitted, Journal of Health Economics* 
-<br>
+*Revised and resubmitted, Journal of Health Economics* <button class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract</button>
 
 <div class="abstract-content">
 Encouraging COVID-19 vaccination among hesitant individuals is vital for achieving herd immunity and curbing the spread of the virus. We conducted a large-scale randomized experiment in India to evaluate five interventions targeting individuals that remained unvaccinated after the initial mass vaccination campaign: (i) information only; (ii) information plus a gift worth $5 upon vaccination; (iii) information plus a 5% chance to win a gift worth $100 upon vaccination; (iv) information combined with improved vaccine accessibility; (v) information disseminated through community leaders. Our findings indicate
