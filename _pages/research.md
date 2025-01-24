@@ -45,8 +45,7 @@ In settings where resistance and rampant misinformation against vaccines exist, 
 The paper measures the effect of child market work on the long-term growth of human capital, focusing on the output of the human capital production: mathematics skills, cognitive skills, pulmonary function, and educational attainment. Our full sample is drawn from a rich longitudinal dataset Indonesia Family Life Survey (IFLS). We address endogeneity of child market work using provincial legislated minimum wage as the instrument. Our instrumental variable estimation shows that child labor negatively affects mathematics skills and pulmonary function, but not cognitive skills and educational attainment. We find heterogeneities in type of work. Those who work outside of family business have lower educational attainment than those working for family business.
 </details>
 
-</br>
-</br>
+
 
 ## working papers
 
@@ -65,11 +64,9 @@ Encouraging COVID-19 vaccination among hesitant individuals is vital for achievi
 that all interventions significantly increased first-dose vaccine uptake, with the guaranteed in-kind gift and accessibility interventions showing the largest effects. The ambassador intervention was particularly effective in promoting second-dose completion. Selection analysis reveals that economically disadvantaged individuals and those with limited access to transportation benefited most from these interventions. We find suggestive evidence of spillover effects on social networks, including friends and neighbors, highlighting the broader community benefits of targeted vaccination
 campaigns. 
 </details>
-</br>
 
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** (under revision) 
-</br>
-</br>
+
 
 
 ## works in progress
