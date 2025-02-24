@@ -21,9 +21,6 @@ summary:hover {
 
 ## publication
 
-**Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
-*Conditionally accepted, Nature: Communications Medicine* <br>
-
 **[Selection and Behavioral Responses of Health Insurance Subsidies in the Long Run: Evidence from a Field Experiment in Ghana](/docs/AKS_Ghana_Published_Version_HE.pdf)** with Patrick Asuming and Hyuncheol Bryant Kim <br>
 *Health Economics, 2024, 33(5): 992–1032.* 
 <details>
@@ -55,7 +52,7 @@ Shifting beliefs and encouraging pro-sustainability behaviors to mitigate climat
 We conduct a large-scale online experiment to understand how to effectively communicate this environmental threat. We vary the perceived identity of the messenger (as a religious leader or scientist) and the narrative style of the video message (religious or scientific). Our results show that any version of message, compared to a placebo, shifts beliefs about causes and consequences of subsidence, increases pro-sustainability behaviors, self-efficacy, and institutional trust in addressing the issue. The messenger's perceived identity as a scientist---rated as more persuasive and trustworthy than an Imam---generates larger impacts on beliefs regardless of narrative style. A scientist delivering a religious narrative is effective in encouraging participants to spread awareness, while an Imam is better at building trust across stakeholders. Effects on beliefs are more pronounced among those with low prior knowledge, high institutional trust, and less reliance on groundwater. However, heterogeneous treatment effects on actions are limited even among the least informed. Overall, our findings demonstrate how perceived identity and narrative framing shapes public understanding of and action on environmental challenges. 
 </details>
 
-**[Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries](/docs/Vaccine_JHE_Dec_2024.pdf)** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
+**Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Revised and resubmitted, Journal of Health Economics* 
 <details>
 <summary>[abstract]</summary>
@@ -68,6 +65,7 @@ campaigns.
 <br>
 <br>
 
+**Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
 
 ## works in progress
 
