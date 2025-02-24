@@ -18,4 +18,4 @@ I am a development economist studying topics in development economics that inter
 My cv [here](/docs/CV.pdf?raw=1) 
  {: style="text-align: justify"}
 
-E-mail: armand.sim@monash.edu
+E-mail: armand.sim@gmail.com
