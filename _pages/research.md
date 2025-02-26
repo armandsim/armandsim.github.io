@@ -33,7 +33,10 @@ We study the effects of a health insurance subsidy in Ghana, where mandates are 
 <details>
 <summary>[abstract]</summary>
 In settings where resistance and rampant misinformation against vaccines exist, the prospect of containing infectious diseases remains a challenge. Can delivery of information regarding the benefits of vaccination through personal home visits by local ambassadors increase vaccine uptake? We conduct a door-to-door randomized information campaign targeted towards COVID-19 unvaccinated individuals in rural Indonesia. We recruited ambassadors from local villages tasked to deliver information about COVID-19 vaccines and promote vaccination through one-on-one meetings, using an interpersonal behavioral change communication approach. To investigate which type of ambassador—health cadres, influential individuals, and laypersons—is the most effective, we randomly vary the type of ambassador that delivers the information at the village level. We find that the overall vaccination take-up is quite moderate and that there are no differences in vaccination outcomes across the treatment groups. These results highlight the challenge of boosting vaccine uptake in late stages of a pandemic.
+
+*Data was collected by Institute for Economic and Social Research, University of Indonesia (LPEM FEB UI).*
 </details>
+
 
 **[The Consequences of Child Market Work on the Growth of Human Capital](https://www.sciencedirect.com/science/article/pii/S0305750X15308731?via%3Dihub)** with Asep Suryahadi and Daniel Suryadarma <br>
 *World Development, 2017, 91: 144–155.* 
@@ -61,11 +64,9 @@ that all interventions significantly increased first-dose vaccine uptake, with t
 campaigns. 
 </details>
 
-**Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** (under revision) 
+**Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia**  
 <br>
 <br>
-
-**Reaching the Last Mile: Results from a Randomised Controlled Trial to Promote COVID-19 Vaccine in Bangladesh** with Dinesh A., Tarannum B., Ahmedul K., Meerjady F., Diwakar M., Debayan P., Patrick O., Piyush B., Shafiun S., Hyuncheol K., and Asad I. <br>
 
 ## works in progress
 
