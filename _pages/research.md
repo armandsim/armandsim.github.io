@@ -56,6 +56,7 @@ We conduct a large-scale online experiment to understand how to effectively comm
 </details>
 
 *Data collection was conducted by Indian Institute of Technology (IIT), Kanpur*
+
 **Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Revised and resubmitted, Journal of Health Economics* 
 <details>
