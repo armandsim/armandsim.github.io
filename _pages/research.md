@@ -28,7 +28,7 @@ summary:hover {
 We study the effects of a health insurance subsidy in Ghana, where mandates are not enforceable. We randomly provide different levels of subsidy (1/3, 2/3, and full) and evaluate the impact at seven months and three years after the intervention. We find that a one-time subsidy increased insurance enrollment for all groups in both the short and long runs, but health care utilization in the long run increased only for the partial subsidy group. We find supportive evidence that ex-post behavioral responses rather than ex-ante selective enrollment explain the long-run health care utilization results.
 </details>
 
-*Data was collected by Institute for Economic and Social Research, University of Indonesia (LPEM FEB UI).*
+*Data collection was conducted by Institute for Economic and Social Research, University of Indonesia (LPEM FEB UI)*
 **[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](/docs/Vaccine_EER.pdf)** with Asad Islam, Gita Kusnadi, Jahen Rezki, Giovanni van Empel, Michael Vlassopoulos, and Yves Zenou <br>
 *European Economic Review, 2024, 163, 104683* 
 <details>
@@ -55,6 +55,7 @@ Shifting beliefs and encouraging pro-sustainability behaviors to mitigate climat
 We conduct a large-scale online experiment to understand how to effectively communicate this environmental threat. We vary the perceived identity of the messenger (as a religious leader or scientist) and the narrative style of the video message (religious or scientific). Our results show that any version of message, compared to a placebo, shifts beliefs about causes and consequences of subsidence, increases pro-sustainability behaviors, self-efficacy, and institutional trust in addressing the issue. The messenger's perceived identity as a scientist---rated as more persuasive and trustworthy than an Imam---generates larger impacts on beliefs regardless of narrative style. A scientist delivering a religious narrative is effective in encouraging participants to spread awareness, while an Imam is better at building trust across stakeholders. Effects on beliefs are more pronounced among those with low prior knowledge, high institutional trust, and less reliance on groundwater. However, heterogeneous treatment effects on actions are limited even among the least informed. Overall, our findings demonstrate how perceived identity and narrative framing shapes public understanding of and action on environmental challenges. 
 </details>
 
+*Data collection was conducted by Indian Institute of Technology (IIT), Kanpur*
 **Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Revised and resubmitted, Journal of Health Economics* 
 <details>
