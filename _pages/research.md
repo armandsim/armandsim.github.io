@@ -57,13 +57,9 @@ We conduct a large-scale online experiment to understand how to effectively comm
 
 **Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
 *Data collection was conducted by Indian Institute of Technology (IIT), Kanpur* <br>
+<!--
 *Revised and resubmitted, Journal of Health Economics* 
-<details>
-<summary>[abstract]</summary>
-Encouraging COVID-19 vaccination among hesitant individuals is vital for achieving herd immunity and curbing the spread of the virus. We conducted a large-scale randomized experiment in India to evaluate five interventions targeting individuals that remained unvaccinated after the initial mass vaccination campaign: (i) information only; (ii) information plus a gift worth $5 upon vaccination; (iii) information plus a 5% chance to win a gift worth $100 upon vaccination; (iv) information combined with improved vaccine accessibility; (v) information disseminated through community leaders. Our findings indicate
-that all interventions significantly increased first-dose vaccine uptake, with the guaranteed in-kind gift and accessibility interventions showing the largest effects. The ambassador intervention was particularly effective in promoting second-dose completion. Selection analysis reveals that economically disadvantaged individuals and those with limited access to transportation benefited most from these interventions. We find suggestive evidence of spillover effects on social networks, including friends and neighbors, highlighting the broader community benefits of targeted vaccination
-campaigns. 
-</details>
+-->
 
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia**  
 <br>
