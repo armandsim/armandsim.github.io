@@ -48,7 +48,7 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 ## working papers
 
-**[Can Religion and Science Play a Complementary Role in Raising Environmental Awareness?](/docs/jakarta_draft.pdf)** with Sarah Gultom, Umair Khalil, Wang-Sheng Lee, and Alyas Widita <br>
+**[Can Religion and Science Play a Complementary Role in Raising Environmental Awareness?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216166)** with Sarah Gultom, Umair Khalil, Wang-Sheng Lee, and Alyas Widita <br>
 *Submitted*
 <details>
 <summary>[abstract]</summary>
