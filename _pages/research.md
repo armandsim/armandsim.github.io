@@ -65,7 +65,7 @@ This paper examines whether religion and science, which are often seen as opposi
 <br>
 <br>
 
-## works in progress
+<!--## works in progress
 
 **Anticipatory and Local Economic Impacts of Mineral Export Ban in Indonesia** <br>
 
