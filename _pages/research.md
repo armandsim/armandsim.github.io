@@ -65,10 +65,12 @@ This paper examines whether religion and science, which are often seen as opposi
 <br>
 <br>
 
-<!--## works in progress
+<!--
+## works in progress
 
 **Anticipatory and Local Economic Impacts of Mineral Export Ban in Indonesia** <br>
 
 **The Tyranny of Distance** with Arya Gaduh <br>
 
 **Economic Crisis and Nation Building** with Arya Gaduh
+-->
