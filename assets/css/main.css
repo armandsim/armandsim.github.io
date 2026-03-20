@@ -110,7 +110,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1100px;
 }
 
 .profile img {
@@ -123,6 +123,109 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
+/******************************************************************************
+ * One-page layout
+ ******************************************************************************/
+html {
+  scroll-behavior: smooth;
+}
+
+.onepage-wrapper {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 80px;
+  width: 280px;
+  min-width: 280px;
+  padding-top: 1rem;
+  text-align: center;
+}
+.sidebar .sidebar-photo {
+  margin-bottom: 1.5rem;
+}
+.sidebar .sidebar-photo img {
+  width: 100%;
+  max-width: 250px;
+}
+.sidebar .sidebar-info {
+  margin-bottom: 1rem;
+}
+.sidebar .sidebar-info .sidebar-position {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--global-text-color);
+  margin-bottom: 0.25rem;
+}
+.sidebar .sidebar-cv {
+  margin-bottom: 1rem;
+}
+.sidebar .sidebar-cv .cv-button {
+  display: inline-block;
+  padding: 0.3rem 1rem;
+  border: 1px solid var(--global-text-color);
+  border-radius: 3px;
+  color: var(--global-text-color);
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+.sidebar .sidebar-cv .cv-button:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  text-decoration: none;
+}
+.sidebar .sidebar-email {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+.sidebar .sidebar-email a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+.sidebar .sidebar-email a:hover {
+  color: var(--global-theme-color);
+}
+.sidebar .sidebar-social .contact-icons {
+  font-size: 1.3rem;
+}
+
+.onepage-content {
+  flex: 1;
+  min-width: 0;
+  padding-top: 1rem;
+}
+.onepage-content section {
+  margin-bottom: 2rem;
+  padding-top: 0.5rem;
+  scroll-margin-top: 70px;
+}
+.onepage-content h2 {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .onepage-wrapper {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .sidebar {
+    position: relative;
+    top: auto;
+    width: 100%;
+    min-width: auto;
+    margin-bottom: 1rem;
+  }
+}
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
