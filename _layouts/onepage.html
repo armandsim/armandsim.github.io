@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<!-- onepage.html -->
+<div class="onepage-wrapper">
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    {%- if page.profile.image %}
+    <div class="sidebar-photo">
+      {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+      <img src="{{ profile_image_path | relative_url }}"
+           class="img-fluid rounded" alt="profile photo">
+    </div>
+    {% endif -%}
+
+    {%- if page.profile.position %}
+    <div class="sidebar-info">
+      <p class="sidebar-position">{{ page.profile.position }}</p>
+    </div>
+    {% endif -%}
+
+    {%- if page.profile.cv %}
+    <div class="sidebar-cv">
+      <a href="{{ page.profile.cv | relative_url }}" class="cv-button">Download CV</a>
+    </div>
+    {% endif -%}
+
+    {%- if page.profile.email %}
+    <div class="sidebar-email">
+      <a href="mailto:{{ page.profile.email }}">{{ page.profile.email }}</a>
+    </div>
+    {% endif -%}
+
+    {%- if page.social %}
+    <div class="sidebar-social">
+      {% include social.html %}
+    </div>
+    {% endif -%}
+  </aside>
+
+  <!-- Main Content -->
+  <main class="onepage-content">
+    {{ content }}
+  </main>
+</div>

@@ -4,7 +4,6 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
-          {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
@@ -20,12 +19,6 @@
               {{- site.title -}}
             {%- endif -%}
           </a>
-          {%- elsif site.enable_navbar_social -%}
-          <!-- Social Icons -->
-          <div class="navbar-brand social">
-            {% include social.html %}
-          </div>
-          {% endif %}
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -37,6 +30,14 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
+              {%- if page.nav_sections -%}
+              <!-- One-page anchor navigation -->
+              {%- for section in page.nav_sections -%}
+              <li class="nav-item">
+                <a class="nav-link" href="#{{ section.id }}">{{ section.title }}</a>
+              </li>
+              {%- endfor -%}
+              {%- else -%}
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
                   {% assign about_title = page.title %}
@@ -94,6 +95,7 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              {%- endif -%}
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

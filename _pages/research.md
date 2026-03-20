@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-nav: true
+nav: false
 nav_order: 2
 ---
 
@@ -65,7 +65,6 @@ We examine the relative effectiveness of religion and science in promoting envir
 <br>
 <br>
 
-<!--
 ## works in progress
 
 **Anticipatory and Local Economic Impacts of Mineral Export Ban in Indonesia** <br>
@@ -73,4 +72,3 @@ We examine the relative effectiveness of religion and science in promoting envir
 **The Tyranny of Distance** with Arya Gaduh <br>
 
 **Economic Crisis and Nation Building** with Arya Gaduh
--->
