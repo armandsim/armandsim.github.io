@@ -24,7 +24,7 @@ nav_sections:
     id: teaching
 ---
 
-<section id="about">
+<section id="about" markdown="1">
 
 ## about
 
@@ -32,7 +32,7 @@ I am an applied microeconomist, working at the intersection of development, heal
 
 </section>
 
-<section id="publications">
+<section id="publications" markdown="1">
 
 ## publications
 
@@ -72,7 +72,7 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 </section>
 
-<section id="working-papers">
+<section id="working-papers" markdown="1">
 
 ## working papers
 
@@ -89,7 +89,7 @@ We examine the relative effectiveness of religion and science in promoting envir
 
 </section>
 
-<section id="works-in-progress">
+<section id="works-in-progress" markdown="1">
 
 ## works in progress
 
@@ -104,7 +104,7 @@ in Indonesia** with Indra Tembulaka
 
 </section>
 
-<section id="teaching">
+<section id="teaching" markdown="1">
 
 ## teaching
 
