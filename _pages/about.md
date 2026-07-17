@@ -96,8 +96,8 @@ We examine the relative effectiveness of religion and science in promoting envir
 **National Pride or Personal Gain? Experimental Evidence on Framing the Energy Transition in Indonesia** with Paramita Mohammad, Elghafiky Bimardhika, and Agnes Patricia. 
 *Status: In the field* 
 
-**Digital Health and Service Delivery in Indonesia** with Bintang Putri and Mikail Hasan. 
-*Status: In the field* 
+**Digital Health and Service Delivery in Indonesia** with Yurdhina Meilissa, Bintang Putri, Mikail Hasan, and Muhammad Anugrah Saputra. 
+*Status: Draft coming soon* 
 
 **Financial Transmission, Climate Change, and Human Capital Investment: Evidence from Bank-Level Loan Data
 in Indonesia** with Indra Tembulaka
