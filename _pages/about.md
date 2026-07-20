@@ -83,6 +83,8 @@ The paper measures the effect of child market work on the long-term growth of hu
 We examine the relative effectiveness of religion and science in promoting environmental awareness. In a large online experiment (N=2,827) in Jakarta—the world's fastest-sinking city—we randomly expose participants to an environmental video message that varies in narrative framing (religious vs. scientific) and presenter identity (Imam vs. scientist), portrayed by the same actor. Each treatment increases beliefs and intentions to adopt mitigation behaviors, but not policy support. However, presenter identity outweighs narrative effects, with scientist portrayal considered more trustworthy than Imam across narratives. These findings highlight the limited influence of religious authority in ostensibly scientific matters in a Muslim-majority country.
 </details>
 
+**Digital Health and Service Delivery in Indonesia** with Yurdhina Meilissa, Bintang Putri, Mikail Hasan, and Muhammad Anugrah Saputra. 
+
 **Import Restriction, Price Shock, and Local Policy Responses: Evidence from Indonesia** (*under revision*)
 
 **Unlocking Immunity: Strategies for Cost-Effective Promotion of COVID-19 Vaccination in Developing Countries** with Asad Islam, Hyuncheol Bryant Kim, and Deb Prakashi <br>
@@ -95,9 +97,6 @@ We examine the relative effectiveness of religion and science in promoting envir
 
 **National Pride or Personal Gain? Experimental Evidence on Framing the Energy Transition in Indonesia** with Paramita Mohammad, Elghafiky Bimardhika, and Agnes Patricia. 
 *Status: In the field* 
-
-**Digital Health and Service Delivery in Indonesia** with Yurdhina Meilissa, Bintang Putri, Mikail Hasan, and Muhammad Anugrah Saputra. 
-*Status: Draft coming soon* 
 
 **Financial Transmission, Climate Change, and Human Capital Investment: Evidence from Bank-Level Loan Data
 in Indonesia** with Indra Tembulaka
