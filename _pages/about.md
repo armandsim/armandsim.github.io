@@ -76,7 +76,7 @@ The paper measures the effect of child market work on the long-term growth of hu
 
 ## working papers
 
-**[Religion, Science, and Environmental Awareness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216166)** with Sarah Gultom, Umair Khalil, Wang-Sheng Lee, and Alyas Widita <br>
+**[Religion, Science, and Environmental Awareness]** with Sarah Gultom, Umair Khalil, Wang-Sheng Lee, and Alyas Widita <br>
 *Under revision*
 <details>
 <summary>[abstract]</summary>
