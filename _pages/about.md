@@ -77,7 +77,7 @@ The paper measures the effect of child market work on the long-term growth of hu
 ## working papers
 
 **[Religion, Science, and Environmental Awareness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216166)** with Sarah Gultom, Umair Khalil, Wang-Sheng Lee, and Alyas Widita <br>
-*Submitted*
+*Under revision*
 <details>
 <summary>[abstract]</summary>
 We examine the relative effectiveness of religion and science in promoting environmental awareness. In a large online experiment (N=2,827) in Jakarta—the world's fastest-sinking city—we randomly expose participants to an environmental video message that varies in narrative framing (religious vs. scientific) and presenter identity (Imam vs. scientist), portrayed by the same actor. Each treatment increases beliefs and intentions to adopt mitigation behaviors, but not policy support. However, presenter identity outweighs narrative effects, with scientist portrayal considered more trustworthy than Imam across narratives. These findings highlight the limited influence of religious authority in ostensibly scientific matters in a Muslim-majority country.
